@@ -1,0 +1,10 @@
+{
+    "python.condaPath": "/Users/vasamsettyvenkatasaikushank/anaconda3/bin/conda",
+    "python.defaultInterpreterPath": "/Users/vasamsettyvenkatasaikushank/anaconda3/envs/myenv2/bin/python",
+    "python.experiments.optInto": [
+        "pythonTerminalEnvVarActivation"
+    ],
+    "python.pythonPath": "/Users/vasamsettyvenkatasaikushank/anaconda3/envs/myenv2/bin/python",
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "python.terminal.activateEnvironment": true
+}

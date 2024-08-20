@@ -1,0 +1,73 @@
+2023-11-26 21:29:58.968 [info] Getting Manifest... blackboxapp.blackbox
+2023-11-26 21:29:58.970 [info] Getting Manifest... eamodio.gitlens
+2023-11-26 21:29:58.971 [info] Getting Manifest... github.copilot
+2023-11-26 21:29:58.972 [info] Getting Manifest... github.copilot-chat
+2023-11-26 21:29:58.973 [info] Getting Manifest... ms-azuretools.vscode-docker
+2023-11-26 21:29:58.974 [info] Getting Manifest... ms-toolsai.jupyter
+2023-11-26 21:29:58.975 [info] Getting Manifest... ms-vscode.vscode-typescript-next
+2023-11-26 21:29:58.975 [info] Getting Manifest... msjsdiag.vscode-react-native
+2023-11-26 21:29:58.976 [info] Getting Manifest... vscodevim.vim
+2023-11-26 21:29:59.254 [info] Installing extension: blackboxapp.blackbox
+2023-11-26 21:29:59.265 [info] Installing extension: ms-vscode.vscode-typescript-next
+2023-11-26 21:29:59.290 [info] Installing extension: msjsdiag.vscode-react-native
+2023-11-26 21:29:59.301 [info] Installing extension: eamodio.gitlens
+2023-11-26 21:29:59.303 [info] Installing extension: ms-toolsai.jupyter
+2023-11-26 21:29:59.311 [info] Installing extension: vscodevim.vim
+2023-11-26 21:29:59.330 [info] Installing extension: github.copilot
+2023-11-26 21:29:59.331 [info] Installing extension: ms-azuretools.vscode-docker
+2023-11-26 21:29:59.331 [info] Installing extension: github.copilot-chat
+2023-11-26 21:30:00.366 [info] Getting Manifest... ms-vscode.js-debug
+2023-11-26 21:30:06.493 [info] Extension signature is verified: ms-vscode.vscode-typescript-next
+2023-11-26 21:30:06.493 [info] Extension signature is verified: vscodevim.vim
+2023-11-26 21:30:06.562 [info] Extracted extension to file:///Users/vasamsettyvenkatasaikushank/.vscode/extensions/vscodevim.vim-1.27.1: vscodevim.vim
+2023-11-26 21:30:06.569 [info] Renamed to /Users/vasamsettyvenkatasaikushank/.vscode/extensions/vscodevim.vim-1.27.1
+2023-11-26 21:30:06.570 [info] Extracting extension completed. vscodevim.vim
+2023-11-26 21:30:06.578 [info] Extension installed successfully: vscodevim.vim
+2023-11-26 21:30:06.580 [info] Marked extension as uninstalled vscodevim.vim-1.26.2
+2023-11-26 21:30:06.716 [info] Extracted extension to file:///Users/vasamsettyvenkatasaikushank/.vscode/extensions/ms-vscode.vscode-typescript-next-5.4.20231125: ms-vscode.vscode-typescript-next
+2023-11-26 21:30:06.722 [info] Renamed to /Users/vasamsettyvenkatasaikushank/.vscode/extensions/ms-vscode.vscode-typescript-next-5.4.20231125
+2023-11-26 21:30:06.723 [info] Extracting extension completed. ms-vscode.vscode-typescript-next
+2023-11-26 21:30:06.728 [info] Extension installed successfully: ms-vscode.vscode-typescript-next
+2023-11-26 21:30:06.729 [info] Marked extension as uninstalled ms-vscode.vscode-typescript-next-5.4.20231106
+2023-11-26 21:30:07.698 [info] Extension signature is verified: github.copilot-chat
+2023-11-26 21:30:07.703 [info] Extension signature is verified: eamodio.gitlens
+2023-11-26 21:30:07.795 [info] Extracted extension to file:///Users/vasamsettyvenkatasaikushank/.vscode/extensions/github.copilot-chat-0.10.2: github.copilot-chat
+2023-11-26 21:30:07.805 [info] Renamed to /Users/vasamsettyvenkatasaikushank/.vscode/extensions/github.copilot-chat-0.10.2
+2023-11-26 21:30:07.806 [info] Extracting extension completed. github.copilot-chat
+2023-11-26 21:30:07.813 [info] Extension installed successfully: github.copilot-chat
+2023-11-26 21:30:07.816 [info] Marked extension as uninstalled github.copilot-chat-0.10.1
+2023-11-26 21:30:07.916 [info] Extracted extension to file:///Users/vasamsettyvenkatasaikushank/.vscode/extensions/eamodio.gitlens-14.5.1: eamodio.gitlens
+2023-11-26 21:30:07.929 [info] Renamed to /Users/vasamsettyvenkatasaikushank/.vscode/extensions/eamodio.gitlens-14.5.1
+2023-11-26 21:30:07.931 [info] Extracting extension completed. eamodio.gitlens
+2023-11-26 21:30:07.941 [info] Extension installed successfully: eamodio.gitlens
+2023-11-26 21:30:07.951 [info] Marked extension as uninstalled eamodio.gitlens-14.4.1
+2023-11-26 21:30:08.236 [info] Extension signature is verified: github.copilot
+2023-11-26 21:30:08.330 [info] Extracted extension to file:///Users/vasamsettyvenkatasaikushank/.vscode/extensions/github.copilot-1.138.0: github.copilot
+2023-11-26 21:30:08.336 [info] Renamed to /Users/vasamsettyvenkatasaikushank/.vscode/extensions/github.copilot-1.138.0
+2023-11-26 21:30:08.336 [info] Extracting extension completed. github.copilot
+2023-11-26 21:30:08.344 [info] Extension installed successfully: github.copilot
+2023-11-26 21:30:08.345 [info] Marked extension as uninstalled github.copilot-1.134.0
+2023-11-26 21:30:11.076 [info] Extension signature is verified: msjsdiag.vscode-react-native
+2023-11-26 21:30:11.133 [info] Extracted extension to file:///Users/vasamsettyvenkatasaikushank/.vscode/extensions/msjsdiag.vscode-react-native-1.12.2: msjsdiag.vscode-react-native
+2023-11-26 21:30:11.139 [info] Renamed to /Users/vasamsettyvenkatasaikushank/.vscode/extensions/msjsdiag.vscode-react-native-1.12.2
+2023-11-26 21:30:11.140 [info] Extracting extension completed. msjsdiag.vscode-react-native
+2023-11-26 21:30:11.148 [info] Extension installed successfully: msjsdiag.vscode-react-native
+2023-11-26 21:30:11.150 [info] Marked extension as uninstalled msjsdiag.vscode-react-native-1.12.1
+2023-11-26 21:30:12.111 [info] Extension signature is verified: ms-azuretools.vscode-docker
+2023-11-26 21:30:12.147 [info] Extracted extension to file:///Users/vasamsettyvenkatasaikushank/.vscode/extensions/ms-azuretools.vscode-docker-1.28.0: ms-azuretools.vscode-docker
+2023-11-26 21:30:12.160 [info] Renamed to /Users/vasamsettyvenkatasaikushank/.vscode/extensions/ms-azuretools.vscode-docker-1.28.0
+2023-11-26 21:30:12.163 [info] Extracting extension completed. ms-azuretools.vscode-docker
+2023-11-26 21:30:12.173 [info] Extension installed successfully: ms-azuretools.vscode-docker
+2023-11-26 21:30:12.177 [info] Marked extension as uninstalled ms-azuretools.vscode-docker-1.27.0
+2023-11-26 21:30:14.089 [info] Extension signature is verified: ms-toolsai.jupyter
+2023-11-26 21:30:14.198 [info] Extracted extension to file:///Users/vasamsettyvenkatasaikushank/.vscode/extensions/ms-toolsai.jupyter-2023.10.1100000000-darwin-arm64: ms-toolsai.jupyter
+2023-11-26 21:30:14.205 [info] Renamed to /Users/vasamsettyvenkatasaikushank/.vscode/extensions/ms-toolsai.jupyter-2023.10.1100000000-darwin-arm64
+2023-11-26 21:30:14.208 [info] Extracting extension completed. ms-toolsai.jupyter
+2023-11-26 21:30:14.215 [info] Extension installed successfully: ms-toolsai.jupyter
+2023-11-26 21:30:14.218 [info] Marked extension as uninstalled ms-toolsai.jupyter-2023.10.1003070148-darwin-arm64
+2023-11-26 21:30:14.776 [info] Extension signature is verified: blackboxapp.blackbox
+2023-11-26 21:30:16.274 [info] Extracted extension to file:///Users/vasamsettyvenkatasaikushank/.vscode/extensions/blackboxapp.blackbox-1.2.24: blackboxapp.blackbox
+2023-11-26 21:30:16.279 [info] Renamed to /Users/vasamsettyvenkatasaikushank/.vscode/extensions/blackboxapp.blackbox-1.2.24
+2023-11-26 21:30:16.279 [info] Extracting extension completed. blackboxapp.blackbox
+2023-11-26 21:30:16.287 [info] Extension installed successfully: blackboxapp.blackbox
+2023-11-26 21:30:16.289 [info] Marked extension as uninstalled blackboxapp.blackbox-1.1.96

@@ -1,0 +1,7 @@
+2023-11-26 21:29:51.089 [info] update#setState idle
+2023-11-26 21:30:21.001 [info] update#setState checking for updates
+2023-11-26 21:30:22.962 [info] update#setState downloading
+2023-11-26 21:30:33.327 [info] Extension host with pid 28508 exited with code: 0, signal: unknown.
+2023-11-26 21:31:14.429 [info] update#setState ready
+2023-11-26 21:33:25.831 [info] Extension host with pid 28671 exited with code: 0, signal: unknown.
+2023-11-26 21:33:49.385 [info] Extension host with pid 29301 exited with code: 0, signal: unknown.

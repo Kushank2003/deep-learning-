@@ -1,0 +1,1165 @@
+ * * * * * * * * * * * * * * * * * *
+   info 2024-05-12 04:48:12.620      front   main   1159  12130                                  main - * AnyDesk MAC Startup *
+   info 2024-05-12 04:48:12.620      front   main   1159  12130                                  main - * Version 8.0.1 (release/mac_8.0.x 6a1884c691284accdb82bf628a1ef0eb65aaf3c4)
+   info 2024-05-12 04:48:12.620      front   main   1159  12130                                  main - * Build 20240312125731
+   info 2024-05-12 04:48:12.620      front   main   1159  12130                                  main - * Prefix ad
+   info 2024-05-12 04:48:12.623      front   main   1159  12130                                  main - * OS Version 14.4.1 (Build 23E224)
+   info 2024-05-12 04:48:12.623      front   main   1159  12130                                  main - * Arch arm64
+   info 2024-05-12 04:48:12.623      front   main   1159  12130                                  main - * Launch path /Applications/AnyDesk.app
+   info 2024-05-12 04:48:12.623      front   main   1159  12130                                  main - * Copyright (C) AnyDesk Software GmbH *
+   info 2024-05-12 04:48:12.623      front   main   1159  12130                                  main - 
+   info 2024-05-12 04:48:12.623      front   main   1159  12130                                  main - ppid: 1 uid: 501
+   info 2024-05-12 04:48:12.623      front   main   1159  12130                                  main - process maxfiles 256 : -1
+   info 2024-05-12 04:48:12.623      front   main   1159  12130                                  main - raising RLIMIT_NOFILE to 10240
+   info 2024-05-12 04:48:12.623      front   main   1159  12130                         impl_selector - using neon
+  error 2024-05-12 04:48:12.734      front   main   1159  12130         mac_app.helper_tool_interface - Global files not found.
+   info 2024-05-12 04:48:12.734      front   main   1159  12130                   fiber.ipc_namespace - Global: no
+   info 2024-05-12 04:48:12.734      front   main   1159  12130                           AppDelegate - Starting a local service.
+warning 2024-05-12 04:48:12.735      front   main   1159  12130                   fiber.ipc_namespace - Local namespace without service.
+ * * * * * * * * * * * * * * * * * *
+   info 2024-05-12 04:48:12.745       lsvc   main   1165  12242                                  main - * AnyDesk MAC Startup *
+   info 2024-05-12 04:48:12.745       lsvc   main   1165  12242                                  main - * Version 8.0.1 (release/mac_8.0.x 6a1884c691284accdb82bf628a1ef0eb65aaf3c4)
+   info 2024-05-12 04:48:12.745       lsvc   main   1165  12242                                  main - * Build 20240312125731
+   info 2024-05-12 04:48:12.745       lsvc   main   1165  12242                                  main - * Prefix ad
+   info 2024-05-12 04:48:12.746       lsvc   main   1165  12242                                  main - * OS Version 14.4.1 (Build 23E224)
+   info 2024-05-12 04:48:12.746       lsvc   main   1165  12242                                  main - * Arch arm64
+   info 2024-05-12 04:48:12.746       lsvc   main   1165  12242                                  main - * Launch path /Applications/AnyDesk.app
+   info 2024-05-12 04:48:12.746       lsvc   main   1165  12242                                  main - * Copyright (C) AnyDesk Software GmbH *
+   info 2024-05-12 04:48:12.746       lsvc   main   1165  12242                                  main - 
+   info 2024-05-12 04:48:12.746       lsvc   main   1165  12242                                  main - ppid: 1159 uid: 501
+   info 2024-05-12 04:48:12.746       lsvc   main   1165  12242                                  main - process maxfiles 10240 : -1
+   info 2024-05-12 04:48:12.746       lsvc   main   1165  12242                         impl_selector - using neon
+   info 2024-05-12 04:48:12.747       lsvc   main   1165  12242                       app.common_path - initialized user = /Users/vasamsettyvenkatasaikushank/.anydesk, system = /Users/vasamsettyvenkatasaikushank/.anydesk
+warning 2024-05-12 04:48:12.747       lsvc   main   1165  12242                       app.common_path - Can't symlink /Users/vasamsettyvenkatasaikushank/Movies/anydesk (0)
+   info 2024-05-12 04:48:12.747       lsvc   main   1165  12242                      main.run_service - Starting local service.
+   info 2024-05-12 04:48:12.747       lsvc   main   1165  12242          base.data.config_application - Adding GPO defaults layer.
+   info 2024-05-12 04:48:12.748       lsvc   main   1165  12242                               app.mdm - Loaded 0/648 MDM defaults.
+   info 2024-05-12 04:48:12.748       lsvc   main   1165  12242          base.data.config_application - Adding GPO overrides layer.
+   info 2024-05-12 04:48:12.748       lsvc   main   1165  12242                               app.mdm - Loaded 0/648 MDM overrides.
+   info 2024-05-12 04:48:12.748       lsvc   main   1165  12242            permission_profile_manager - Migrating V0 -> V1
+   info 2024-05-12 04:48:12.749       lsvc   main   1165  12242                       fiber.scheduler - Spawning root fiber 1.
+   info 2024-05-12 04:48:12.749       lsvc   main   1165  12242                       fiber.scheduler - Scheduler started.
+   info 2024-05-12 04:48:12.749       lsvc   main   1165  12242    1                      app.service - Opening the IPC namespace.
+   info 2024-05-12 04:48:12.749       lsvc   main   1165  12242    1              fiber.ipc_namespace - Global: no
+   info 2024-05-12 04:48:12.749       lsvc   main   1165  12242    1                      app.service - Logging into the IPC namespace.
+   info 2024-05-12 04:48:12.749       lsvc   main   1165  12242    1                  fiber.scheduler - Spawning child fiber 2 (parent: 1).
+   info 2024-05-12 04:48:12.749       lsvc   main   1165  12242    1                  fiber.scheduler - Spawning child fiber 3 'notifications' (parent: 1).
+   info 2024-05-12 04:48:12.749       lsvc   main   1165  12242    1                  fiber.scheduler - Spawning child fiber 4 (parent: 1).
+   info 2024-05-12 04:48:12.749       lsvc   main   1165  12242    1                  fiber.scheduler - Spawning child fiber 5 'license_adapter' (parent: 1).
+   info 2024-05-12 04:48:12.750       lsvc   main   1165  12242    1                      app.service - Starting to supervise the IPC namespace.
+   info 2024-05-12 04:48:12.750       lsvc   main   1165  12242    1                      app.service - Starting the connector.
+   info 2024-05-12 04:48:12.750       lsvc   main   1165  12242    1            anynet.connection_mgr - Generating a new certificate and key.
+   info 2024-05-12 04:48:12.836      front   main   1159  12130                       app.common_path - initialized user = /Users/vasamsettyvenkatasaikushank/.anydesk, system = /Users/vasamsettyvenkatasaikushank/.anydesk
+   info 2024-05-12 04:48:12.836      front   main   1159  12130                           AppDelegate - Starting frontend (6).
+   info 2024-05-12 04:48:12.837      front   main   1159  12130          base.data.config_application - Adding GPO defaults layer.
+   info 2024-05-12 04:48:12.837      front   main   1159  12130                               app.mdm - Loaded 0/648 MDM defaults.
+   info 2024-05-12 04:48:12.837      front   main   1159  12130          base.data.config_application - Adding GPO overrides layer.
+   info 2024-05-12 04:48:12.837      front   main   1159  12130                               app.mdm - Loaded 0/648 MDM overrides.
+   info 2024-05-12 04:48:12.838      front   main   1159  12130                           gui.gui_app - DPI scaling: 2.00 / 2.00
+   info 2024-05-12 04:48:12.838      front   main   1159  12130                           gui.gui_app - Using high-resolution bitmaps.
+warning 2024-05-12 04:48:12.838      front   main   1159  12130                          account_info - Could not read account info from config.
+warning 2024-05-12 04:48:12.838      front   main   1159  12130                          account_info - Could not read account info from config.
+   info 2024-05-12 04:48:12.838      front   main   1159  12130                       base.signal.hub - 4 threads.
+   info 2024-05-12 04:48:12.862      front   timr   1159  12249          base.signal.local.timer_impl - Initialized master timer.
+   info 2024-05-12 04:48:12.862      front   ctrl   1159  12251                      mac_app.frontend - Frontend startup.
+   info 2024-05-12 04:48:12.862      front   ctrl   1159  12251                      mac_app.frontend - Logging the frontend in.
+warning 2024-05-12 04:48:12.863      front   ctrl   1159  12251                          account_info - Could not read account info from config.
+warning 2024-05-12 04:48:12.880      front   ctrl   1159  12251                          account_info - Could not read account info from config.
+   info 2024-05-12 04:48:12.880      front   ctrl   1159  12251                     base.monitor_info - 1 active monitor(s) found.
+   info 2024-05-12 04:48:12.901       lsvc   main   1165  12242    1            anynet.connection_mgr - 3 CA certificate(s) loaded.
+   info 2024-05-12 04:48:12.901       lsvc   main   1165  12242    1                  fiber.scheduler - Spawning root fiber 6 'connection_mgr'.
+   info 2024-05-12 04:48:12.901       lsvc   main   1165  12242    1                  fiber.scheduler - Spawning root fiber 7 'main_relay_conn'.
+   info 2024-05-12 04:48:12.901       lsvc   main   1165  12242    1                  fiber.scheduler - Spawning root fiber 8 'tcp_acceptor'.
+   info 2024-05-12 04:48:12.901       lsvc   main   1165  12242    1                  fiber.scheduler - Spawning root fiber 9 'tcp_acceptor'.
+   info 2024-05-12 04:48:12.901       lsvc   main   1165  12242    1                      app.service - Setting up the listen sockets.
+   info 2024-05-12 04:48:12.902       lsvc   main   1165  12242    1                  fiber.scheduler - Spawning root fiber 10.
+   info 2024-05-12 04:48:12.902       lsvc   main   1165  12242    1                      app.service - Service startup completed.
+   info 2024-05-12 04:48:12.902       lsvc   main   1165  12242    1            app.discovery_manager - Updated Discovery settings: repeat interval (1000), repeat limit (10), buffer interval (5000), port range (3)
+   info 2024-05-12 04:48:12.902       lsvc   main   1165  12242    1            app.discovery_manager - Starting Discovery.
+   info 2024-05-12 04:48:12.902       lsvc   main   1165  12242    1                   ad.wol_service - Starting WOL service.
+   info 2024-05-12 04:48:12.902       lsvc   main   1165  12242    1                  fiber.scheduler - Spawning child fiber 11 'wol_service' (parent: 1).
+   info 2024-05-12 04:48:12.902       lsvc   main   1165  12242    1                  fiber.scheduler - Spawning child fiber 12 'invitation_service' (parent: 1).
+   info 2024-05-12 04:48:12.902       lsvc   main   1165  12242    1                  fiber.scheduler - Spawning child fiber 13 'ancl' (parent: 1).
+   info 2024-05-12 04:48:12.902       lsvc   main   1165  12242    1                  fiber.scheduler - Spawning child fiber 14 'quiver_anynet_service' (parent: 1).
+   info 2024-05-12 04:48:12.902       lsvc   main   1165  12242    1                      app.service - Waiting for messages.
+   info 2024-05-12 04:48:12.902       lsvc   main   1165  12242    1                      app.service - Process start: 1159 (frontend).
+   info 2024-05-12 04:48:12.902       lsvc   main   1165  12242    1           anynet.relay_connector - Short timeouts enabled.
+   info 2024-05-12 04:48:12.902       lsvc   main   1165  12242    1                      app.service - New IPC connection.
+   info 2024-05-12 04:48:12.902       lsvc   main   1165  12242    1                  fiber.scheduler - Spawning child fiber 15 'ipc_connection' (parent: 1).
+   info 2024-05-12 04:48:12.903       lsvc   main   1165  12242    6            anynet.connection_mgr - Starting connection manager fiber.
+   info 2024-05-12 04:48:12.903       lsvc   main   1165  12242    7           anynet.main_relay_conn - Starting main relay connection.
+   info 2024-05-12 04:48:12.903       lsvc   main   1165  12242    7                  fiber.scheduler - Spawning child fiber 16 'relay_connector' (parent: 7 'main_relay_conn').
+   info 2024-05-12 04:48:12.903       lsvc   main   1165  12242    8              anynet.tcp_acceptor - Listening on TCP port 7070 with IPv4.
+   info 2024-05-12 04:48:12.903       lsvc   main   1165  12242    9              anynet.tcp_acceptor - Listening on TCP port 7070 with IPv6.
+   info 2024-05-12 04:48:12.903       lsvc   main   1165  12242   10                anynet.any_socket - Listen fiber started.
+   info 2024-05-12 04:48:12.903       lsvc   main   1165  12242   11                      anynet.conn - Request before connect. Queueing.
+   info 2024-05-12 04:48:12.904       lsvc   main   1165  12242   15                      app.service - Creating an IPC accept socket.
+   info 2024-05-12 04:48:12.904       lsvc   main   1165  12242   15                      app.service - Connected to 1159 (frontend).
+   info 2024-05-12 04:48:12.904       lsvc   main   1165  12242   16           anynet.relay_connector - Relay connector started.
+   info 2024-05-12 04:48:12.904       lsvc   main   1165  12242   16           anynet.relay_connector - Start proxy search.
+   info 2024-05-12 04:48:12.905       lsvc   main   1165  12242   16           anynet.relay_connector - Connecting to relay boot.net.anydesk.com (1/1)
+   info 2024-05-12 04:48:12.905       lsvc   main   1165  12242   16           anynet.relay_connector - Skipping connect method connect_proxy_443 (1/6) (no proxy found)
+   info 2024-05-12 04:48:12.905       lsvc   main   1165  12242   16           anynet.relay_connector - Skipping connect method connect_proxy_80 (2/6) (no proxy found)
+   info 2024-05-12 04:48:12.905       lsvc   main   1165  12242   16           anynet.relay_connector - Skipping connect method socks_proxy_443 (3/6) (no proxy found)
+   info 2024-05-12 04:48:12.906       lsvc   main   1165  12242   15                      app.service - Process login detected.
+  error 2024-05-12 04:48:12.906       lsvc   main   1165  12242   15         base.prot.packet_factory - Invalid packet received (type=100, 22 bytes).
+warning 2024-05-12 04:48:12.906       lsvc   main   1165  12242   15                      app.service - Unexpected message. packet_msg_t
+  error 2024-05-12 04:48:12.906       lsvc   main   1165  12242   15         base.prot.packet_factory - Invalid packet received (type=100, 22 bytes).
+warning 2024-05-12 04:48:12.906       lsvc   main   1165  12242   15                      app.service - Unexpected message. data_msg_t
+warning 2024-05-12 04:48:12.906       lsvc   main   1165  12242   15                      app.service - Unexpected message. packet_msg_t
+   info 2024-05-12 04:48:12.906       lsvc   main   1165  12242   15                  fiber.scheduler - Spawning child fiber 17 'account_adapter' (parent: 15 'ipc_connection').
+warning 2024-05-12 04:48:12.906      front   wrk1   1159  12253                                   sif - Dropping out of date license response.
+   info 2024-05-12 04:48:12.907       lsvc   main   1165  12242   17                  account_adapter - Preparing quiver based account service for os-session 501
+   info 2024-05-12 04:48:12.907      front   wrk2   1159  12254                               app.mdm - Loaded 0/648 MDM overrides.
+   info 2024-05-12 04:48:12.907       lsvc   main   1165  12242   17                      anynet.conn - Request before connect. Queueing.
+   info 2024-05-12 04:48:12.907      front   wrk2   1159  12254                               app.mdm - Loaded 0/648 MDM defaults.
+   info 2024-05-12 04:48:12.909      front   main   1159  12130                             url_query - append
+   info 2024-05-12 04:48:12.909      front   main   1159  12130                             url_query - append
+   info 2024-05-12 04:48:12.909      front   main   1159  12130                             url_query - append
+   info 2024-05-12 04:48:12.910      front   main   1159  12130                             url_query - append
+   info 2024-05-12 04:48:12.910      front   main   1159  12130                             url_query - append
+   info 2024-05-12 04:48:12.910      front   main   1159  12130                             url_query - append
+   info 2024-05-12 04:48:12.947       lsvc   main   1165  12242   16           anynet.relay_connector - Using IPv4: 195.181.174.167
+   info 2024-05-12 04:48:12.982      front   main   1159  12130                             url_query - append
+   info 2024-05-12 04:48:12.982      front   main   1159  12130                             url_query - append
+   info 2024-05-12 04:48:12.982      front   main   1159  12130                             url_query - append
+   info 2024-05-12 04:48:12.982      front   main   1159  12130                             url_query - append
+   info 2024-05-12 04:48:12.982      front   main   1159  12130                             url_query - append
+   info 2024-05-12 04:48:12.982      front   main   1159  12130                             url_query - append
+   info 2024-05-12 04:48:12.991      front   main   1159  12130                             url_query - append
+   info 2024-05-12 04:48:12.991      front   main   1159  12130                             url_query - append
+   info 2024-05-12 04:48:12.991      front   main   1159  12130                             url_query - append
+  error 2024-05-12 04:48:13.013      front   main   1159  12130         mac_app.helper_tool_interface - Global files not found.
+   info 2024-05-12 04:48:13.073      front   main   1159  12130                             url_query - append
+   info 2024-05-12 04:48:13.073      front   main   1159  12130                             url_query - append
+   info 2024-05-12 04:48:13.073      front   main   1159  12130                             url_query - append
+   info 2024-05-12 04:48:13.120       lsvc   main   1165  12242   16                  fiber.scheduler - Spawning root fiber 18.
+   info 2024-05-12 04:48:13.469       lsvc   main   1165  12242   16           anynet.relay_connector - Cipher: ECDHE-ECDSA-AES256-GCM-SHA384 TLSv1.2 Kx=ECDH Au=ECDSA Enc=AESGCM(256) Mac=AEAD
+   info 2024-05-12 04:48:13.469       lsvc   main   1165  12242   16                  fiber.scheduler - Spawning root fiber 19.
+   info 2024-05-12 04:48:13.469       lsvc   main   1165  12242   16                        handshake - Using protocol version 3.
+   info 2024-05-12 04:48:13.758       lsvc   main   1165  12242                       fiber.scheduler - Fiber 16 'relay_connector' (parent: 7 'main_relay_conn') requested quit of fiber 19.
+   info 2024-05-12 04:48:13.758       lsvc   main   1165  12242   19                      fiber.fiber - Received quit.
+   info 2024-05-12 04:48:13.758       lsvc   main   1165  12242                       fiber.scheduler - Fiber 19 terminated.
+   info 2024-05-12 04:48:13.758       lsvc   main   1165  12242                       fiber.scheduler - Fiber 16 'relay_connector' (parent: 7 'main_relay_conn') requested quit of fiber 18.
+   info 2024-05-12 04:48:13.758       lsvc   main   1165  12242   18                      fiber.fiber - Received quit.
+   info 2024-05-12 04:48:13.758       lsvc   main   1165  12242                       fiber.scheduler - Fiber 18 terminated.
+   info 2024-05-12 04:48:13.759       lsvc   main   1165  12242   16           anynet.relay_connector - Connection terminated: anynet_invalid_zone
+   info 2024-05-12 04:48:13.759       lsvc   main   1165  12242   16           anynet.relay_connector - Received a new server list (10 servers)
+   info 2024-05-12 04:48:13.759       lsvc   main   1165  12242   16           anynet.relay_connector - Connecting to relay relay-301a8b57.net.anydesk.com (1/10)
+   info 2024-05-12 04:48:13.759       lsvc   main   1165  12242   16           anynet.relay_connector - Skipping connect method connect_proxy_443 (1/6) (no proxy found)
+   info 2024-05-12 04:48:13.759       lsvc   main   1165  12242   16           anynet.relay_connector - Skipping connect method connect_proxy_80 (2/6) (no proxy found)
+   info 2024-05-12 04:48:13.759       lsvc   main   1165  12242   16           anynet.relay_connector - Skipping connect method socks_proxy_443 (3/6) (no proxy found)
+   info 2024-05-12 04:48:13.794       lsvc   main   1165  12242   16           anynet.relay_connector - Using IPv4: 57.128.101.85
+   info 2024-05-12 04:48:13.971       lsvc   main   1165  12242   16                  fiber.scheduler - Spawning root fiber 20.
+   info 2024-05-12 04:48:14.334       lsvc   main   1165  12242   16           anynet.relay_connector - Cipher: ECDHE-ECDSA-AES256-GCM-SHA384 TLSv1.2 Kx=ECDH Au=ECDSA Enc=AESGCM(256) Mac=AEAD
+   info 2024-05-12 04:48:14.334       lsvc   main   1165  12242   16                  fiber.scheduler - Spawning root fiber 21.
+   info 2024-05-12 04:48:14.336       lsvc   main   1165  12242   16                        handshake - Using protocol version 3.
+   info 2024-05-12 04:48:14.577       lsvc   main   1165  12242   16           anynet.relay_connector - Connection established.
+   info 2024-05-12 04:48:14.577       lsvc   main   1165  12242   16           anynet.relay_connector - Relay connector stopped.
+   info 2024-05-12 04:48:14.577       lsvc   main   1165  12242                       fiber.scheduler - Fiber 16 'relay_connector' (parent: 7 'main_relay_conn') terminated.
+   info 2024-05-12 04:48:14.581       lsvc   main   1165  12242    7           anynet.main_relay_conn - Network ID: main
+   info 2024-05-12 04:48:14.582       lsvc   main   1165  12242    7                anynet.relay_conn - External address: 175.101.128.17:49366.
+   info 2024-05-12 04:48:14.583       lsvc   main   1165  12242    7           anynet.main_relay_conn - Reporting system information.
+   info 2024-05-12 04:48:14.583       lsvc   main   1165  12242    7           anynet.main_relay_conn - Main relay ID: 301a8b57
+   info 2024-05-12 04:48:14.663       lsvc   main   1165  12242    7           anynet.main_relay_conn - Detected 2 new networks.
+   info 2024-05-12 04:48:14.663       lsvc   main   1165  12242   14                   anynet_service - Relay connection state changed: Connected.
+   info 2024-05-12 04:48:14.663       lsvc   main   1165  12242    1                   monitoring_svc - Connected: 1
+   info 2024-05-12 04:48:14.664       lsvc   main   1165  12242    6            anynet.connection_mgr - Main relay connection established.
+   info 2024-05-12 04:48:14.664       lsvc   main   1165  12242    6            anynet.connection_mgr - New user data. Client-ID: 1389602959.
+   info 2024-05-12 04:48:14.693      front   wrk1   1159  12253                   anymessage.provider - CID changed. Requesting messages update.
+   info 2024-05-12 04:48:14.893       lsvc   main   1165  12242   17                      app.service - Account: 501; 
+  error 2024-05-12 04:48:14.893      front   wrk1   1159  12253                               account - Unexpected response for request_account_info.
+   info 2024-05-12 04:48:14.906       lsvc   main   1165  12242    1                    app.discovery - Starting.
+   info 2024-05-12 04:48:14.906       lsvc   main   1165  12242    1                  fiber.scheduler - Spawning root fiber 22 'discovery'.
+   info 2024-05-12 04:48:14.906       lsvc   main   1165  12242    1                             ancl - Skipping ANCL update. No public key configured.
+   info 2024-05-12 04:48:14.907       lsvc   main   1165  12242    1                      app.service - Account backend service status changed (0->1)
+   info 2024-05-12 04:48:14.907       lsvc   main   1165  12242   22                    app.discovery - Current Discovery revision: 0
+   info 2024-05-12 04:48:14.909       lsvc   main   1165  12242   22                    app.discovery - Joined multicast group 239.255.102.18:50001.
+   info 2024-05-12 04:48:14.909       lsvc   main   1165  12242   22                    app.discovery - Bound to port: 50001
+   info 2024-05-12 04:48:14.909       lsvc   main   1165  12242   22                anynet.udp_socket - Multicast loop option set to 0
+   info 2024-05-12 04:48:14.913       lsvc   main   1165  12242   22                    app.discovery - Discovery fiber started.
+  error 2024-05-12 04:48:14.926      front   wrk1   1159  12253         mac_app.helper_tool_interface - Global files not found.
+   info 2024-05-12 04:48:15.111       lsvc   main   1165  12242    1                      app.service - License backend service status changed (0->1)
+warning 2024-05-12 04:48:15.111      front   wrk2   1159  12254                      mac_app.frontend - Dropping out of date license response.
+   info 2024-05-12 04:48:15.111      front   wrk2   1159  12254                   anymessage.provider - License changed. Requesting messages update.
+  error 2024-05-12 04:48:15.126      front   main   1159  12130         mac_app.helper_tool_interface - Global files not found.
+   info 2024-05-12 04:48:28.384      front   main   1159  12130                           AppDelegate - Logout detected.
+   info 2024-05-12 04:48:28.385      front   ctrl   1159  12251                      mac_app.frontend - Frontend shutdown.
+   info 2024-05-12 04:48:28.386      front   ctrl   1159  12251                      mac_app.frontend - Terminating the service
+   info 2024-05-12 04:48:28.386       lsvc   main   1165  12242    1                      app.service - Process stop: 1159.
+   info 2024-05-12 04:48:28.386       lsvc   main   1165  12242    1           anynet.relay_connector - Short timeouts disabled.
+   info 2024-05-12 04:48:28.386       lsvc   main   1165  12242   15                      app.service - Terminating the service.
+   info 2024-05-12 04:48:28.386       lsvc   main   1165  12242   15                  fiber.scheduler - Quitting scheduler (0).
+   info 2024-05-12 04:48:28.386       lsvc   main   1165  12242                       fiber.scheduler - Quitting all fibers.
+   info 2024-05-12 04:48:28.386       lsvc   main   1165  12242                       fiber.scheduler - Fiber 1 requested quit of fiber 4 (parent: 1).
+   info 2024-05-12 04:48:28.387       lsvc   main   1165  12242                       fiber.scheduler - Fiber 4 (parent: 1) terminated.
+   info 2024-05-12 04:48:28.387       lsvc   main   1165  12242    6            anynet.connection_mgr - Connection manager fiber quit.
+   info 2024-05-12 04:48:28.387       lsvc   main   1165  12242                       fiber.scheduler - Fiber 6 'connection_mgr' terminated.
+   info 2024-05-12 04:48:28.387       lsvc   main   1165  12242    7           anynet.main_relay_conn - Main relay connection closed.
+   info 2024-05-12 04:48:28.387       lsvc   main   1165  12242    7            anynet.connection_mgr - Forcing cleanup.
+   info 2024-05-12 04:48:28.387       lsvc   main   1165  12242                       fiber.scheduler - Fiber 7 'main_relay_conn' requested quit of fiber 21.
+   info 2024-05-12 04:48:28.387       lsvc   main   1165  12242    8              anynet.tcp_acceptor - Received quit.
+   info 2024-05-12 04:48:28.387       lsvc   main   1165  12242                       fiber.scheduler - Fiber 8 'tcp_acceptor' terminated.
+   info 2024-05-12 04:48:28.387       lsvc   main   1165  12242    9              anynet.tcp_acceptor - Received quit.
+   info 2024-05-12 04:48:28.387       lsvc   main   1165  12242                       fiber.scheduler - Fiber 9 'tcp_acceptor' terminated.
+   info 2024-05-12 04:48:28.387       lsvc   main   1165  12242   10                anynet.any_socket - Listen fiber stopped.
+   info 2024-05-12 04:48:28.387       lsvc   main   1165  12242                       fiber.scheduler - Fiber 10 terminated.
+   info 2024-05-12 04:48:28.387       lsvc   main   1165  12242   20                      fiber.fiber - Received quit.
+   info 2024-05-12 04:48:28.387       lsvc   main   1165  12242                       fiber.scheduler - Fiber 20 terminated.
+   info 2024-05-12 04:48:28.387       lsvc   main   1165  12242   21                      fiber.fiber - Received quit.
+   info 2024-05-12 04:48:28.388       lsvc   main   1165  12242                       fiber.scheduler - Fiber 21 terminated.
+   info 2024-05-12 04:48:28.388       lsvc   main   1165  12242   22                    app.discovery - Left multicast group 239.255.102.18:50001.
+   info 2024-05-12 04:48:28.388       lsvc   main   1165  12242   22                    app.discovery - Discovery fiber stopped.
+   info 2024-05-12 04:48:28.388       lsvc   main   1165  12242                       fiber.scheduler - Fiber 22 'discovery' terminated.
+   info 2024-05-12 04:48:28.388       lsvc   main   1165  12242                       fiber.scheduler - Fiber 1 requested quit of fiber 5 'license_adapter' (parent: 1).
+   info 2024-05-12 04:48:28.389       lsvc   main   1165  12242                       fiber.scheduler - Fiber 7 'main_relay_conn' terminated.
+   info 2024-05-12 04:48:28.389       lsvc   main   1165  12242    5                      fib_service - Caught exception. quitting.
+   info 2024-05-12 04:48:28.389       lsvc   main   1165  12242                       fiber.scheduler - Fiber 5 'license_adapter' (parent: 1) terminated.
+   info 2024-05-12 04:48:28.389       lsvc   main   1165  12242                       fiber.scheduler - Fiber 1 requested quit of fiber 3 'notifications' (parent: 1).
+   info 2024-05-12 04:48:28.389       lsvc   main   1165  12242    3                      fib_service - Caught exception. quitting.
+   info 2024-05-12 04:48:28.389       lsvc   main   1165  12242                       fiber.scheduler - Fiber 3 'notifications' (parent: 1) terminated.
+   info 2024-05-12 04:48:28.389       lsvc   main   1165  12242                       fiber.scheduler - Fiber 1 requested quit of fiber 2 (parent: 1).
+   info 2024-05-12 04:48:28.389       lsvc   main   1165  12242                       fiber.scheduler - Fiber 2 (parent: 1) terminated.
+   info 2024-05-12 04:48:28.389       lsvc   main   1165  12242                       fiber.scheduler - Fiber 1 requested quit of fiber 13 'ancl' (parent: 1).
+   info 2024-05-12 04:48:28.389       lsvc   main   1165  12242   13                      fib_service - Caught exception. quitting.
+   info 2024-05-12 04:48:28.389       lsvc   main   1165  12242                       fiber.scheduler - Fiber 13 'ancl' (parent: 1) terminated.
+   info 2024-05-12 04:48:28.389       lsvc   main   1165  12242    1                      app.service - Service shutdown.
+   info 2024-05-12 04:48:28.389       lsvc   main   1165  12242                       fiber.scheduler - Fiber 1 requested quit of fiber 11 'wol_service' (parent: 1).
+   info 2024-05-12 04:48:28.389       lsvc   main   1165  12242   11                      fiber.fiber - Received quit.
+   info 2024-05-12 04:48:28.389       lsvc   main   1165  12242                       fiber.scheduler - Fiber 11 'wol_service' (parent: 1) terminated.
+   info 2024-05-12 04:48:28.389       lsvc   main   1165  12242                       fiber.scheduler - Fiber 1 requested quit of fiber 12 'invitation_service' (parent: 1).
+   info 2024-05-12 04:48:28.389       lsvc   main   1165  12242   12                      fib_service - Caught exception. quitting.
+   info 2024-05-12 04:48:28.389       lsvc   main   1165  12242                       fiber.scheduler - Fiber 12 'invitation_service' (parent: 1) terminated.
+   info 2024-05-12 04:48:28.390       lsvc   main   1165  12242                       fiber.scheduler - Fiber 1 requested quit of fiber 14 'quiver_anynet_service' (parent: 1).
+   info 2024-05-12 04:48:28.390       lsvc   main   1165  12242                       fiber.scheduler - Fiber 14 'quiver_anynet_service' (parent: 1) terminated.
+   info 2024-05-12 04:48:28.390       lsvc   main   1165  12242                       fiber.scheduler - Fiber 1 requested quit of fiber 15 'ipc_connection' (parent: 1).
+   info 2024-05-12 04:48:28.390       lsvc   main   1165  12242                       fiber.scheduler - Fiber 15 'ipc_connection' (parent: 1) requested quit of fiber 17 'account_adapter' (parent: 15 'ipc_connection').
+   info 2024-05-12 04:48:28.390       lsvc   main   1165  12242   17                      fiber.fiber - Received quit.
+   info 2024-05-12 04:48:28.390       lsvc   main   1165  12242                       fiber.scheduler - Fiber 17 'account_adapter' (parent: 15 'ipc_connection') terminated.
+   info 2024-05-12 04:48:28.390      front   wrk0   1159  12252                      mac_app.frontend - Service connection lost.
+   info 2024-05-12 04:48:28.898      front   ctrl   1159  12251                      mac_app.frontend - Frontend shutdown complete.
+   info 2024-05-12 04:48:28.934       lsvc   main   1165  12242   15                      app.service - Fiber exit (ipc).
+   info 2024-05-12 04:48:28.934       lsvc   main   1165  12242                       fiber.scheduler - Fiber 15 'ipc_connection' (parent: 1) terminated.
+   info 2024-05-12 04:48:28.935       lsvc   main   1165  12242    1            anynet.connection_mgr - Connection manager shutdown.
+   info 2024-05-12 04:48:28.935       lsvc   main   1165  12242    1                  fiber.scheduler - Quitting scheduler (0).
+   info 2024-05-12 04:48:28.935       lsvc   main   1165  12242                       fiber.scheduler - Fiber 1 terminated.
+   info 2024-05-12 04:48:28.935       lsvc   main   1165  12242                       fiber.scheduler - All fibers terminated.
+   info 2024-05-12 04:48:28.935       lsvc   main   1165  12242                       fiber.scheduler - Scheduler stopped (0).
+   info 2024-05-12 04:48:28.936       lsvc   main   1165  12242                      main.run_service - Exiting
+ * * * * * * * * * * * * * * * * * *
+   info 2024-05-12 04:48:31.513      front   main   1188  12804                                  main - * AnyDesk MAC Startup *
+   info 2024-05-12 04:48:31.514      front   main   1188  12804                                  main - * Version 8.0.1 (release/mac_8.0.x 6a1884c691284accdb82bf628a1ef0eb65aaf3c4)
+   info 2024-05-12 04:48:31.514      front   main   1188  12804                                  main - * Build 20240312125731
+   info 2024-05-12 04:48:31.514      front   main   1188  12804                                  main - * Prefix ad
+   info 2024-05-12 04:48:31.515      front   main   1188  12804                                  main - * OS Version 14.4.1 (Build 23E224)
+   info 2024-05-12 04:48:31.515      front   main   1188  12804                                  main - * Arch arm64
+   info 2024-05-12 04:48:31.515      front   main   1188  12804                                  main - * Launch path /Applications/AnyDesk.app
+   info 2024-05-12 04:48:31.516      front   main   1188  12804                                  main - * Copyright (C) AnyDesk Software GmbH *
+   info 2024-05-12 04:48:31.516      front   main   1188  12804                                  main - 
+   info 2024-05-12 04:48:31.516      front   main   1188  12804                                  main - ppid: 1 uid: 501
+   info 2024-05-12 04:48:31.516      front   main   1188  12804                                  main - process maxfiles 256 : -1
+   info 2024-05-12 04:48:31.516      front   main   1188  12804                                  main - raising RLIMIT_NOFILE to 10240
+   info 2024-05-12 04:48:31.516      front   main   1188  12804                         impl_selector - using neon
+warning 2024-05-12 04:48:31.558      front   main   1188  12804                   fiber.ipc_namespace - Local namespace without service.
+  error 2024-05-12 04:48:31.574      front   main   1188  12804         mac_app.helper_tool_interface - Global files not found.
+   info 2024-05-12 04:48:31.574      front   main   1188  12804                   fiber.ipc_namespace - Global: no
+   info 2024-05-12 04:48:31.574      front   main   1188  12804                           AppDelegate - Starting a local service.
+warning 2024-05-12 04:48:31.574      front   main   1188  12804                   fiber.ipc_namespace - Local namespace without service.
+ * * * * * * * * * * * * * * * * * *
+   info 2024-05-12 04:48:31.588       lsvc   main   1189  12843                                  main - * AnyDesk MAC Startup *
+   info 2024-05-12 04:48:31.589       lsvc   main   1189  12843                                  main - * Version 8.0.1 (release/mac_8.0.x 6a1884c691284accdb82bf628a1ef0eb65aaf3c4)
+   info 2024-05-12 04:48:31.589       lsvc   main   1189  12843                                  main - * Build 20240312125731
+   info 2024-05-12 04:48:31.589       lsvc   main   1189  12843                                  main - * Prefix ad
+   info 2024-05-12 04:48:31.590       lsvc   main   1189  12843                                  main - * OS Version 14.4.1 (Build 23E224)
+   info 2024-05-12 04:48:31.590       lsvc   main   1189  12843                                  main - * Arch arm64
+   info 2024-05-12 04:48:31.590       lsvc   main   1189  12843                                  main - * Launch path /Applications/AnyDesk.app
+   info 2024-05-12 04:48:31.590       lsvc   main   1189  12843                                  main - * Copyright (C) AnyDesk Software GmbH *
+   info 2024-05-12 04:48:31.590       lsvc   main   1189  12843                                  main - 
+   info 2024-05-12 04:48:31.590       lsvc   main   1189  12843                                  main - ppid: 1188 uid: 501
+   info 2024-05-12 04:48:31.590       lsvc   main   1189  12843                                  main - process maxfiles 10240 : -1
+   info 2024-05-12 04:48:31.590       lsvc   main   1189  12843                         impl_selector - using neon
+   info 2024-05-12 04:48:31.591       lsvc   main   1189  12843                       app.common_path - initialized user = /Users/vasamsettyvenkatasaikushank/.anydesk, system = /Users/vasamsettyvenkatasaikushank/.anydesk
+   info 2024-05-12 04:48:31.591       lsvc   main   1189  12843                      main.run_service - Starting local service.
+   info 2024-05-12 04:48:31.591       lsvc   main   1189  12843          base.data.config_application - Adding GPO defaults layer.
+   info 2024-05-12 04:48:31.592       lsvc   main   1189  12843                               app.mdm - Loaded 0/648 MDM defaults.
+   info 2024-05-12 04:48:31.592       lsvc   main   1189  12843          base.data.config_application - Adding GPO overrides layer.
+   info 2024-05-12 04:48:31.593       lsvc   main   1189  12843                               app.mdm - Loaded 0/648 MDM overrides.
+   info 2024-05-12 04:48:31.593       lsvc   main   1189  12843                       fiber.scheduler - Spawning root fiber 1.
+   info 2024-05-12 04:48:31.593       lsvc   main   1189  12843                       fiber.scheduler - Scheduler started.
+   info 2024-05-12 04:48:31.593       lsvc   main   1189  12843    1                      app.service - Opening the IPC namespace.
+   info 2024-05-12 04:48:31.593       lsvc   main   1189  12843    1              fiber.ipc_namespace - Global: no
+   info 2024-05-12 04:48:31.593       lsvc   main   1189  12843    1                      app.service - Logging into the IPC namespace.
+   info 2024-05-12 04:48:31.594       lsvc   main   1189  12843    1                  fiber.scheduler - Spawning child fiber 2 (parent: 1).
+   info 2024-05-12 04:48:31.594       lsvc   main   1189  12843    1                  fiber.scheduler - Spawning child fiber 3 'notifications' (parent: 1).
+   info 2024-05-12 04:48:31.594       lsvc   main   1189  12843    1                  fiber.scheduler - Spawning child fiber 4 (parent: 1).
+   info 2024-05-12 04:48:31.594       lsvc   main   1189  12843    1                  fiber.scheduler - Spawning child fiber 5 'license_adapter' (parent: 1).
+   info 2024-05-12 04:48:31.594       lsvc   main   1189  12843    1                      app.service - Starting to supervise the IPC namespace.
+   info 2024-05-12 04:48:31.594       lsvc   main   1189  12843    1                      app.service - Starting the connector.
+   info 2024-05-12 04:48:31.594       lsvc   main   1189  12843    1            anynet.connection_mgr - Importing certificate and key.
+   info 2024-05-12 04:48:31.595       lsvc   main   1189  12843    1            anynet.connection_mgr - 3 CA certificate(s) loaded.
+   info 2024-05-12 04:48:31.596       lsvc   main   1189  12843    1                  fiber.scheduler - Spawning root fiber 6 'connection_mgr'.
+   info 2024-05-12 04:48:31.596       lsvc   main   1189  12843    1                  fiber.scheduler - Spawning root fiber 7 'main_relay_conn'.
+   info 2024-05-12 04:48:31.596       lsvc   main   1189  12843    1                  fiber.scheduler - Spawning root fiber 8 'tcp_acceptor'.
+   info 2024-05-12 04:48:31.596       lsvc   main   1189  12843    1                  fiber.scheduler - Spawning root fiber 9 'tcp_acceptor'.
+   info 2024-05-12 04:48:31.596       lsvc   main   1189  12843    1                      app.service - Setting up the listen sockets.
+   info 2024-05-12 04:48:31.596       lsvc   main   1189  12843    1                  fiber.scheduler - Spawning root fiber 10.
+   info 2024-05-12 04:48:31.596       lsvc   main   1189  12843    1                      app.service - Service startup completed.
+   info 2024-05-12 04:48:31.596       lsvc   main   1189  12843    1            app.discovery_manager - Updated Discovery settings: repeat interval (1000), repeat limit (10), buffer interval (5000), port range (3)
+   info 2024-05-12 04:48:31.596       lsvc   main   1189  12843    1            app.discovery_manager - Starting Discovery.
+   info 2024-05-12 04:48:31.597       lsvc   main   1189  12843    1                   ad.wol_service - Starting WOL service.
+   info 2024-05-12 04:48:31.597       lsvc   main   1189  12843    1                  fiber.scheduler - Spawning child fiber 11 'wol_service' (parent: 1).
+   info 2024-05-12 04:48:31.597       lsvc   main   1189  12843    1               statistics_service - cid changed - resetting consents for the system.
+   info 2024-05-12 04:48:31.597       lsvc   main   1189  12843    1                  fiber.scheduler - Spawning child fiber 12 'invitation_service' (parent: 1).
+   info 2024-05-12 04:48:31.597       lsvc   main   1189  12843    1                  fiber.scheduler - Spawning child fiber 13 'ancl' (parent: 1).
+   info 2024-05-12 04:48:31.597       lsvc   main   1189  12843    1                  fiber.scheduler - Spawning child fiber 14 'quiver_anynet_service' (parent: 1).
+   info 2024-05-12 04:48:31.597       lsvc   main   1189  12843    1                      app.service - Waiting for messages.
+   info 2024-05-12 04:48:31.598       lsvc   main   1189  12843    6            anynet.connection_mgr - Starting connection manager fiber.
+   info 2024-05-12 04:48:31.598       lsvc   main   1189  12843    7           anynet.main_relay_conn - Starting main relay connection.
+   info 2024-05-12 04:48:31.598       lsvc   main   1189  12843    7                  fiber.scheduler - Spawning child fiber 15 'relay_connector' (parent: 7 'main_relay_conn').
+   info 2024-05-12 04:48:31.598       lsvc   main   1189  12843    8              anynet.tcp_acceptor - Listening on TCP port 7070 with IPv4.
+   info 2024-05-12 04:48:31.598       lsvc   main   1189  12843    9              anynet.tcp_acceptor - Listening on TCP port 7070 with IPv6.
+   info 2024-05-12 04:48:31.598       lsvc   main   1189  12843   10                anynet.any_socket - Listen fiber started.
+   info 2024-05-12 04:48:31.599       lsvc   main   1189  12843   15           anynet.relay_connector - Relay connector started.
+   info 2024-05-12 04:48:31.599       lsvc   main   1189  12843   15           anynet.relay_connector - Start proxy search.
+   info 2024-05-12 04:48:31.600       lsvc   main   1189  12843   15           anynet.relay_connector - Connecting to relay relay-301a8b57.net.anydesk.com (1/2)
+   info 2024-05-12 04:48:31.600       lsvc   main   1189  12843   15           anynet.relay_connector - Skipping connect method connect_proxy_443 (1/6) (no proxy found)
+   info 2024-05-12 04:48:31.600       lsvc   main   1189  12843   15           anynet.relay_connector - Skipping connect method connect_proxy_80 (2/6) (no proxy found)
+   info 2024-05-12 04:48:31.600       lsvc   main   1189  12843   15           anynet.relay_connector - Skipping connect method socks_proxy_443 (3/6) (no proxy found)
+   info 2024-05-12 04:48:31.605       lsvc   main   1189  12843   15           anynet.relay_connector - Using IPv4: 57.128.101.85
+   info 2024-05-12 04:48:31.676      front   main   1188  12804                       app.common_path - initialized user = /Users/vasamsettyvenkatasaikushank/.anydesk, system = /Users/vasamsettyvenkatasaikushank/.anydesk
+   info 2024-05-12 04:48:31.677      front   main   1188  12804                           AppDelegate - Starting frontend (6).
+   info 2024-05-12 04:48:31.678      front   main   1188  12804          base.data.config_application - Adding GPO defaults layer.
+   info 2024-05-12 04:48:31.678      front   main   1188  12804                               app.mdm - Loaded 0/648 MDM defaults.
+   info 2024-05-12 04:48:31.678      front   main   1188  12804          base.data.config_application - Adding GPO overrides layer.
+   info 2024-05-12 04:48:31.679      front   main   1188  12804                               app.mdm - Loaded 0/648 MDM overrides.
+   info 2024-05-12 04:48:31.679      front   main   1188  12804                           gui.gui_app - DPI scaling: 2.00 / 2.00
+   info 2024-05-12 04:48:31.679      front   main   1188  12804                           gui.gui_app - Using high-resolution bitmaps.
+   info 2024-05-12 04:48:31.680      front   main   1188  12804                       base.signal.hub - 4 threads.
+   info 2024-05-12 04:48:31.704      front   timr   1188  12906          base.signal.local.timer_impl - Initialized master timer.
+   info 2024-05-12 04:48:31.704      front   ctrl   1188  12908                      mac_app.frontend - Frontend startup.
+   info 2024-05-12 04:48:31.704      front   ctrl   1188  12908                      mac_app.frontend - Logging the frontend in.
+   info 2024-05-12 04:48:31.704       lsvc   main   1189  12843    1                      app.service - Process start: 1188 (frontend).
+   info 2024-05-12 04:48:31.704       lsvc   main   1189  12843    1           anynet.relay_connector - Short timeouts enabled.
+   info 2024-05-12 04:48:31.738       lsvc   main   1189  12843    1                      app.service - New IPC connection.
+   info 2024-05-12 04:48:31.738       lsvc   main   1189  12843    1                  fiber.scheduler - Spawning child fiber 16 'ipc_connection' (parent: 1).
+   info 2024-05-12 04:48:31.738       lsvc   main   1189  12843   16                      app.service - Creating an IPC accept socket.
+   info 2024-05-12 04:48:31.739       lsvc   main   1189  12843   16                      app.service - Connected to 1188 (frontend).
+   info 2024-05-12 04:48:31.739       lsvc   main   1189  12843   16                      app.service - Process login detected.
+   info 2024-05-12 04:48:31.739       lsvc   main   1189  12843   16                  fiber.scheduler - Spawning child fiber 17 'account_adapter' (parent: 16 'ipc_connection').
+warning 2024-05-12 04:48:31.739      front   wrk1   1188  12910                                   sif - Dropping out of date license response.
+   info 2024-05-12 04:48:31.739       lsvc   main   1189  12843   17                  account_adapter - Preparing quiver based account service for os-session 501
+   info 2024-05-12 04:48:31.740      front   wrk2   1188  12911                               app.mdm - Loaded 0/648 MDM overrides.
+   info 2024-05-12 04:48:31.740      front   wrk2   1188  12911                               app.mdm - Loaded 0/648 MDM defaults.
+   info 2024-05-12 04:48:31.767       lsvc   main   1189  12843   17                      anynet.conn - Request before connect. Queueing.
+   info 2024-05-12 04:48:31.767      front   ctrl   1188  12908                     base.monitor_info - 1 active monitor(s) found.
+   info 2024-05-12 04:48:31.791      front   main   1188  12804                             url_query - append
+   info 2024-05-12 04:48:31.791       lsvc   main   1189  12843   15                  fiber.scheduler - Spawning root fiber 18.
+   info 2024-05-12 04:48:31.791      front   main   1188  12804                             url_query - append
+   info 2024-05-12 04:48:31.791      front   main   1188  12804                             url_query - append
+   info 2024-05-12 04:48:31.791      front   main   1188  12804                             url_query - append
+   info 2024-05-12 04:48:31.791      front   main   1188  12804                             url_query - append
+   info 2024-05-12 04:48:31.791      front   main   1188  12804                             url_query - append
+   info 2024-05-12 04:48:31.800      front   main   1188  12804                             url_query - append
+   info 2024-05-12 04:48:31.800      front   main   1188  12804                             url_query - append
+   info 2024-05-12 04:48:31.800      front   main   1188  12804                             url_query - append
+  error 2024-05-12 04:48:31.832      front   main   1188  12804         mac_app.helper_tool_interface - Global files not found.
+   info 2024-05-12 04:48:32.114      front   main   1188  12804                             url_query - append
+   info 2024-05-12 04:48:32.114      front   main   1188  12804                             url_query - append
+   info 2024-05-12 04:48:32.114      front   main   1188  12804                             url_query - append
+   info 2024-05-12 04:48:32.166       lsvc   main   1189  12843   15           anynet.relay_connector - Cipher: ECDHE-ECDSA-AES256-GCM-SHA384 TLSv1.2 Kx=ECDH Au=ECDSA Enc=AESGCM(256) Mac=AEAD
+   info 2024-05-12 04:48:32.166       lsvc   main   1189  12843   15                  fiber.scheduler - Spawning root fiber 19.
+   info 2024-05-12 04:48:32.166       lsvc   main   1189  12843   15                        handshake - Using protocol version 3.
+   info 2024-05-12 04:48:32.497       lsvc   main   1189  12843   15           anynet.relay_connector - Connection established.
+   info 2024-05-12 04:48:32.497       lsvc   main   1189  12843   15           anynet.relay_connector - Relay connector stopped.
+   info 2024-05-12 04:48:32.497       lsvc   main   1189  12843                       fiber.scheduler - Fiber 15 'relay_connector' (parent: 7 'main_relay_conn') terminated.
+   info 2024-05-12 04:48:32.500       lsvc   main   1189  12843    7           anynet.main_relay_conn - Network ID: main
+   info 2024-05-12 04:48:32.501       lsvc   main   1189  12843    7                anynet.relay_conn - External address: 175.101.128.17:49379.
+   info 2024-05-12 04:48:32.502       lsvc   main   1189  12843    7           anynet.main_relay_conn - Main relay ID: 301a8b57
+   info 2024-05-12 04:48:32.579       lsvc   main   1189  12843   14                   anynet_service - Relay connection state changed: Connected.
+   info 2024-05-12 04:48:32.579       lsvc   main   1189  12843    1                   monitoring_svc - Connected: 1
+   info 2024-05-12 04:48:32.579       lsvc   main   1189  12843    6            anynet.connection_mgr - Main relay connection established.
+   info 2024-05-12 04:48:32.579       lsvc   main   1189  12843    6            anynet.connection_mgr - New user data. Client-ID: 1389602959.
+   info 2024-05-12 04:48:32.814       lsvc   main   1189  12843    1                    app.discovery - Starting.
+   info 2024-05-12 04:48:32.814       lsvc   main   1189  12843    1                  fiber.scheduler - Spawning root fiber 20 'discovery'.
+   info 2024-05-12 04:48:32.814       lsvc   main   1189  12843    1                             ancl - Skipping ANCL update. No public key configured.
+   info 2024-05-12 04:48:32.814       lsvc   main   1189  12843   20                    app.discovery - Current Discovery revision: 0
+   info 2024-05-12 04:48:32.815       lsvc   main   1189  12843   20                    app.discovery - Joined multicast group 239.255.102.18:50001.
+   info 2024-05-12 04:48:32.815       lsvc   main   1189  12843   20                    app.discovery - Bound to port: 50001
+   info 2024-05-12 04:48:32.815       lsvc   main   1189  12843   20                anynet.udp_socket - Multicast loop option set to 0
+   info 2024-05-12 04:48:32.817       lsvc   main   1189  12843   20                    app.discovery - Discovery fiber started.
+   info 2024-05-12 04:48:32.817       lsvc   main   1189  12843   17                      app.service - Account: 501; 
+   info 2024-05-12 04:48:32.817       lsvc   main   1189  12843    1                      app.service - Account backend service status changed (0->1)
+  error 2024-05-12 04:48:32.818      front   wrk1   1188  12910                               account - Unexpected response for request_account_info.
+  error 2024-05-12 04:48:32.828      front   wrk2   1188  12911         mac_app.helper_tool_interface - Global files not found.
+   info 2024-05-12 04:48:33.030       lsvc   main   1189  12843    1                      app.service - License backend service status changed (0->1)
+warning 2024-05-12 04:48:33.031      front   wrk2   1188  12911                      mac_app.frontend - Dropping out of date license response.
+   info 2024-05-12 04:48:33.031      front   wrk2   1188  12911                   anymessage.provider - License changed. Requesting messages update.
+  error 2024-05-12 04:48:33.046      front   main   1188  12804         mac_app.helper_tool_interface - Global files not found.
+  error 2024-05-12 04:48:51.485      front   main   1188  12804         mac_app.helper_tool_interface - Global files not found.
+   info 2024-05-12 04:49:44.056      front   main   1188  12804                             url_query - append
+   info 2024-05-12 04:49:44.056      front   main   1188  12804                             url_query - append
+   info 2024-05-12 04:49:44.056      front   main   1188  12804                             url_query - append
+   info 2024-05-12 04:49:44.059      front   main   1188  12804                             url_query - append
+   info 2024-05-12 04:49:44.059      front   main   1188  12804                             url_query - append
+   info 2024-05-12 04:49:44.059      front   main   1188  12804                             url_query - append
+   info 2024-05-12 04:49:44.085      front   main   1188  12804                             url_query - append
+   info 2024-05-12 04:49:44.085      front   main   1188  12804                             url_query - append
+   info 2024-05-12 04:49:44.085      front   main   1188  12804                             url_query - append
+   info 2024-05-12 04:49:44.100      front   main   1188  12804                             url_query - append
+   info 2024-05-12 04:49:44.100      front   main   1188  12804                             url_query - append
+   info 2024-05-12 04:49:44.100      front   main   1188  12804                             url_query - append
+  error 2024-05-12 04:49:44.107      front   main   1188  12804         mac_app.helper_tool_interface - Can't connect to helper
+  error 2024-05-12 04:49:44.107      front   main   1188  12804         mac_app.helper_tool_interface - Can not connect to the helper tool.
+   info 2024-05-12 04:49:44.124       lsvc   main   1189  12843    1                          app.mdm - Loaded 0/648 MDM overrides.
+   info 2024-05-12 04:49:44.124       lsvc   main   1189  12843    1                          app.mdm - Loaded 0/648 MDM defaults.
+   info 2024-05-12 04:49:44.124       lsvc   main   1189  12843    1                          app.mdm - Loaded 0/648 MDM overrides.
+   info 2024-05-12 04:49:44.124       lsvc   main   1189  12843    1                          app.mdm - Loaded 0/648 MDM defaults.
+   info 2024-05-12 04:49:44.157       lsvc   main   1189  12843    1                          app.mdm - Loaded 0/648 MDM overrides.
+   info 2024-05-12 04:49:44.158       lsvc   main   1189  12843    1                          app.mdm - Loaded 0/648 MDM defaults.
+   info 2024-05-12 04:49:44.158       lsvc   main   1189  12843    1                          app.mdm - Loaded 0/648 MDM overrides.
+   info 2024-05-12 04:49:44.158       lsvc   main   1189  12843    1                          app.mdm - Loaded 0/648 MDM defaults.
+   info 2024-05-12 04:49:47.082       lsvc   main   1189  12843    1                          app.mdm - Loaded 0/648 MDM overrides.
+   info 2024-05-12 04:49:47.082       lsvc   main   1189  12843    1                          app.mdm - Loaded 0/648 MDM defaults.
+   info 2024-05-12 04:49:47.082       lsvc   main   1189  12843    1                          app.mdm - Loaded 0/648 MDM overrides.
+   info 2024-05-12 04:49:47.082       lsvc   main   1189  12843    1                          app.mdm - Loaded 0/648 MDM defaults.
+   info 2024-05-12 04:49:48.593       lsvc   main   1189  12843    1                          app.mdm - Loaded 0/648 MDM overrides.
+   info 2024-05-12 04:49:48.594       lsvc   main   1189  12843    1                          app.mdm - Loaded 0/648 MDM defaults.
+   info 2024-05-12 04:49:50.027       lsvc   main   1189  12843    1                          app.mdm - Loaded 0/648 MDM overrides.
+   info 2024-05-12 04:49:50.028       lsvc   main   1189  12843    1                          app.mdm - Loaded 0/648 MDM defaults.
+   info 2024-05-12 04:49:50.028       lsvc   main   1189  12843    1                          app.mdm - Loaded 0/648 MDM overrides.
+   info 2024-05-12 04:49:50.029       lsvc   main   1189  12843    1                          app.mdm - Loaded 0/648 MDM defaults.
+   info 2024-05-12 04:49:51.276       lsvc   main   1189  12843    1                          app.mdm - Loaded 0/648 MDM overrides.
+   info 2024-05-12 04:49:51.277       lsvc   main   1189  12843    1                          app.mdm - Loaded 0/648 MDM defaults.
+   info 2024-05-12 04:49:52.238       lsvc   main   1189  12843    1                          app.mdm - Loaded 0/648 MDM overrides.
+   info 2024-05-12 04:49:52.239       lsvc   main   1189  12843    1                          app.mdm - Loaded 0/648 MDM defaults.
+   info 2024-05-12 04:49:54.111       lsvc   main   1189  12843   10                anynet.any_socket - Accept request from 1690819272 (via relay).
+   info 2024-05-12 04:49:54.111       lsvc   main   1189  12843    1                      app.service - New ANY connection.
+   info 2024-05-12 04:49:54.111       lsvc   main   1189  12843    1                  fiber.scheduler - Spawning child fiber 21 'anynet_connection' (parent: 1).
+   info 2024-05-12 04:49:54.111       lsvc   main   1189  12843   21                      app.service - Creating a ANY accept socket.
+   info 2024-05-12 04:49:54.112       lsvc   main   1189  12843   21         anynet.client_packetizer - Adjusted send buffer: 8192
+   info 2024-05-12 04:49:54.112       lsvc   main   1189  12843   21                  fiber.scheduler - Spawning root fiber 22 'any_socket_accept'.
+   info 2024-05-12 04:49:54.112       lsvc   main   1189  12843   22                anynet.any_socket - Accept fiber spawned.
+   info 2024-05-12 04:49:54.112       lsvc   main   1189  12843   22                anynet.any_socket - Accepting from 1690819272.
+   info 2024-05-12 04:49:54.112       lsvc   main   1189  12843   22                anynet.any_socket - Retrieving client information.
+   info 2024-05-12 04:49:54.420       lsvc   main   1189  12843   22                anynet.any_socket - Client-ID: 1690819272 (FPR: 8e70f6959bf6).
+   info 2024-05-12 04:49:54.420       lsvc   main   1189  12843   22                anynet.any_socket - Logged in from 175.101.128.15:59346 on relay 250372ec.
+   info 2024-05-12 04:49:54.420       lsvc   main   1189  12843   22            anynet.connection_mgr - Making a new connection to client 8e70f6959bf6f72b6c61d2f280d6ad9b160088ba.
+   info 2024-05-12 04:49:54.420       lsvc   main   1189  12843   22                  fiber.scheduler - Spawning root fiber 23 'managed_client_conn'.
+   info 2024-05-12 04:49:54.420       lsvc   main   1189  12843   22                anynet.any_socket - Accepting the connect request.
+   info 2024-05-12 04:49:54.422       lsvc   main   1189  12843   22            anynet.connection_mgr - Removing 1 addresses.
+   info 2024-05-12 04:49:54.422       lsvc   main   1189  12843   22                anynet.any_socket - Connect request accepted (direct).
+   info 2024-05-12 04:49:54.422       lsvc   main   1189  12843    7                anynet.relay_conn - IPv4 punch socket set up on port 49379.
+   info 2024-05-12 04:49:54.422       lsvc   main   1189  12843    7                anynet.relay_conn - IPv6 punch socket set up on port 49379.
+   info 2024-05-12 04:49:54.422       lsvc   main   1189  12843   22                anynet.any_socket - Connect request accepted, tunnel route created.
+   info 2024-05-12 04:49:54.422       lsvc   main   1189  12843   22                anynet.any_socket - Local vport: 10, Remote vport: 14, SID: 1711965842522120
+   info 2024-05-12 04:49:54.422       lsvc   main   1189  12843   22                anynet.any_socket - Sending 0 queued blobs.
+   info 2024-05-12 04:49:54.422       lsvc   main   1189  12843   22                anynet.any_socket - Initiating the managed connection.
+warning 2024-05-12 04:49:54.422       lsvc   main   1189  12843   22                anynet.any_socket - Unexpected: connect_msg_t.
+   info 2024-05-12 04:49:54.423       lsvc   main   1189  12843   23                  fiber.scheduler - Spawning child fiber 24 (parent: 23 'managed_client_conn').
+   info 2024-05-12 04:49:54.423       lsvc   main   1189  12843   24           anynet.punch_connector - Spawning fibers for 5 potential connect addresses.
+   info 2024-05-12 04:49:54.423       lsvc   main   1189  12843   24           anynet.punch_connector - -> Spawning: 19.168.82.251:7070 (0).
+   info 2024-05-12 04:49:54.423       lsvc   main   1189  12843   24                  fiber.scheduler - Spawning child fiber 25 (parent: 24).
+   info 2024-05-12 04:49:54.423       lsvc   main   1189  12843   24           anynet.punch_connector - -> Spawning: 19.168.82.251:7070 (1).
+   info 2024-05-12 04:49:54.423       lsvc   main   1189  12843   24                  fiber.scheduler - Spawning child fiber 26 (parent: 24).
+   info 2024-05-12 04:49:54.423       lsvc   main   1189  12843   24           anynet.punch_connector - -> Spawning: 175.101.128.15:53984 (2).
+   info 2024-05-12 04:49:54.423       lsvc   main   1189  12843   24                  fiber.scheduler - Spawning child fiber 27 (parent: 24).
+   info 2024-05-12 04:49:54.423       lsvc   main   1189  12843   24           anynet.punch_connector - -> Spawning: 175.101.128.15:7070 (3).
+   info 2024-05-12 04:49:54.423       lsvc   main   1189  12843   24                  fiber.scheduler - Spawning child fiber 28 (parent: 24).
+   info 2024-05-12 04:49:54.423       lsvc   main   1189  12843   24           anynet.punch_connector - -> Spawning: 175.101.128.15:7070 (4).
+   info 2024-05-12 04:49:54.423       lsvc   main   1189  12843   24                  fiber.scheduler - Spawning child fiber 29 (parent: 24).
+   info 2024-05-12 04:49:54.423       lsvc   main   1189  12843   25           anynet.punch_connector - [19.168.82.251:7070] Connecting
+   info 2024-05-12 04:49:54.423       lsvc   main   1189  12843   26           anynet.punch_connector - [19.168.82.251:7070] Connecting
+   info 2024-05-12 04:49:54.424       lsvc   main   1189  12843   27           anynet.punch_connector - [175.101.128.15:53984] Connecting (lport 49379, attempt 0).
+   info 2024-05-12 04:49:54.424       lsvc   main   1189  12843   28           anynet.punch_connector - [175.101.128.15:7070] Connecting
+   info 2024-05-12 04:49:54.424       lsvc   main   1189  12843   29           anynet.punch_connector - [175.101.128.15:7070] Connecting
+   info 2024-05-12 04:49:54.434       lsvc   main   1189  12843   27           anynet.punch_connector - [175.101.128.15:53984] Connect failed (errno_0)).
+   info 2024-05-12 04:49:54.436       lsvc   main   1189  12843   28           anynet.punch_connector - [175.101.128.15:7070] Connection failed (errno_0).
+   info 2024-05-12 04:49:54.436       lsvc   main   1189  12843                       fiber.scheduler - Fiber 28 (parent: 24) terminated.
+   info 2024-05-12 04:49:54.436       lsvc   main   1189  12843   29           anynet.punch_connector - [175.101.128.15:7070] Connection failed (errno_0).
+   info 2024-05-12 04:49:54.436       lsvc   main   1189  12843                       fiber.scheduler - Fiber 29 (parent: 24) terminated.
+   info 2024-05-12 04:49:54.689       lsvc   main   1189  12843   27           anynet.punch_connector - [175.101.128.15:53984] Connecting (lport 49379, attempt 1).
+   info 2024-05-12 04:49:54.694       lsvc   main   1189  12843   27           anynet.punch_connector - [175.101.128.15:53984] Connect failed (errno_0)).
+   info 2024-05-12 04:49:54.776       lsvc   main   1189  12843   21                      app.service - Using protocol version 4.
+   info 2024-05-12 04:49:54.778       lsvc   main   1189  12843   21                      app.session - Session features: deskrt, clipboard, chat, audio, input, tcp_tunnel.
+   info 2024-05-12 04:49:54.780       lsvc   main   1189  12843   21                      app.session - Connecting to current session 501.
+   info 2024-05-12 04:49:54.782       lsvc   main   1189  12843   21                      app.session - Starting a new  backend in session 501.
+   info 2024-05-12 04:49:54.950       lsvc   main   1189  12843   27           anynet.punch_connector - [175.101.128.15:53984] Connecting (lport 49379, attempt 2).
+   info 2024-05-12 04:49:54.958       lsvc   main   1189  12843   27           anynet.punch_connector - [175.101.128.15:53984] Connect failed (errno_0)).
+   info 2024-05-12 04:49:55.213       lsvc   main   1189  12843   27           anynet.punch_connector - [175.101.128.15:53984] Connecting (lport 49379, attempt 3).
+   info 2024-05-12 04:49:55.219       lsvc   main   1189  12843   27           anynet.punch_connector - [175.101.128.15:53984] Connect failed (errno_0)).
+  error 2024-05-12 04:49:55.219       lsvc   main   1189  12843   27           anynet.punch_connector - [175.101.128.15:53984] Too many retries.
+   info 2024-05-12 04:49:55.219       lsvc   main   1189  12843                       fiber.scheduler - Fiber 27 (parent: 24) terminated.
+   info 2024-05-12 04:49:55.887       lsvc   main   1189  12843    1                      app.service - Process start: 1239 (backend:501).
+   info 2024-05-12 04:49:55.888       lsvc   main   1189  12843   21  app.named_process_starter_macos - Using existing backend (PID 1239, session 501).
+   info 2024-05-12 04:49:55.888       lsvc   main   1189  12843   21                      app.session - Backend PID: 1239
+   info 2024-05-12 04:49:55.888       lsvc   main   1189  12843   21                      app.session - 1: Connecting to the backend.
+   info 2024-05-12 04:49:55.889       lsvc   main   1189  12843   21                      app.session - 1: IPC connection established.
+   info 2024-05-12 04:49:55.889       lsvc   main   1189  12843   21                      app.session - 2: Requesting a session at the backend.
+ * * * * * * * * * * * * * * * * * *
+   info 2024-05-12 04:49:55.914       back   main   1239  13900                                  main - * AnyDesk MAC Startup *
+   info 2024-05-12 04:49:55.915       back   main   1239  13900                                  main - * Version 8.0.1 (release/mac_8.0.x 6a1884c691284accdb82bf628a1ef0eb65aaf3c4)
+   info 2024-05-12 04:49:55.915       back   main   1239  13900                                  main - * Build 20240312125731
+   info 2024-05-12 04:49:55.915       back   main   1239  13900                                  main - * Prefix ad
+   info 2024-05-12 04:49:55.918       back   main   1239  13900                                  main - * OS Version 14.4.1 (Build 23E224)
+   info 2024-05-12 04:49:55.918       back   main   1239  13900                                  main - * Arch arm64
+   info 2024-05-12 04:49:55.918       back   main   1239  13900                                  main - * Launch path /Applications/AnyDesk.app
+   info 2024-05-12 04:49:55.918       back   main   1239  13900                                  main - * Copyright (C) AnyDesk Software GmbH *
+   info 2024-05-12 04:49:55.918       back   main   1239  13900                                  main - 
+   info 2024-05-12 04:49:55.918       back   main   1239  13900                                  main - ppid: 1188 uid: 501
+   info 2024-05-12 04:49:55.918       back   main   1239  13900                                  main - process maxfiles 10240 : -1
+   info 2024-05-12 04:49:55.918       back   main   1239  13900                         impl_selector - using neon
+   info 2024-05-12 04:49:55.986       back   main   1239  13900                           AppDelegate - Connected to already running gsvc:1189
+  error 2024-05-12 04:49:56.003       back   main   1239  13900         mac_app.helper_tool_interface - Global files not found.
+   info 2024-05-12 04:49:56.003       back   main   1239  13900                       app.common_path - initialized user = /Users/vasamsettyvenkatasaikushank/.anydesk, system = /Users/vasamsettyvenkatasaikushank/.anydesk
+   info 2024-05-12 04:49:56.003       back   main   1239  13900                           AppDelegate - Starting backend.
+   info 2024-05-12 04:49:56.004       back   main   1239  13900          base.data.config_application - Adding GPO defaults layer.
+   info 2024-05-12 04:49:56.004       back   main   1239  13900                               app.mdm - Loaded 0/648 MDM defaults.
+   info 2024-05-12 04:49:56.004       back   main   1239  13900          base.data.config_application - Adding GPO overrides layer.
+   info 2024-05-12 04:49:56.005       back   main   1239  13900                               app.mdm - Loaded 0/648 MDM overrides.
+   info 2024-05-12 04:49:56.005       back   main   1239  13900                           gui.gui_app - DPI scaling: 2.00 / 2.00
+   info 2024-05-12 04:49:56.005       back   main   1239  13900                           gui.gui_app - Using high-resolution bitmaps.
+   info 2024-05-12 04:49:56.005       back   main   1239  13900                       base.signal.hub - 4 threads.
+   info 2024-05-12 04:49:56.006       back   timr   1239  13933          base.signal.local.timer_impl - Initialized master timer.
+   info 2024-05-12 04:49:56.006       back   main   1239  13900                    app.tunnel_ft_comp - Ready.
+   info 2024-05-12 04:49:56.006       back   timr   1239  13934          base.signal.local.timer_impl - Initialized master timer.
+   info 2024-05-12 04:49:56.006       back   main   1239  13900                     base.monitor_info - 1 active monitor(s) found.
+   info 2024-05-12 04:49:56.006       back   main   1239  13900                     base.monitor_info - 1 active monitor(s) found.
+   info 2024-05-12 04:49:56.006       back   main   1239  13900                       mac_app.backend - run
+   info 2024-05-12 04:49:56.006       back   ctrl   1239  13935                       mac_app.backend - Backend is starting up.
+   info 2024-05-12 04:49:56.006       back   ctrl   1239  13935                    desk_rt.cg_capture - Starting capture.
+   info 2024-05-12 04:49:56.006       back   ctrl   1239  13935                       mac_app.backend - pid backend: 1239
+   info 2024-05-12 04:49:56.007       lsvc   main   1189  12843    1                      app.service - New IPC connection.
+   info 2024-05-12 04:49:56.007       lsvc   main   1189  12843    1                  fiber.scheduler - Spawning child fiber 30 'ipc_connection' (parent: 1).
+   info 2024-05-12 04:49:56.007       lsvc   main   1189  12843   30                      app.service - Creating an IPC accept socket.
+   info 2024-05-12 04:49:56.008       lsvc   main   1189  12843   30                      app.service - Connected to 1239 (backend:501).
+   info 2024-05-12 04:49:56.008       lsvc   main   1189  12843   30                      app.service - Process login detected.
+   info 2024-05-12 04:49:56.008       lsvc   main   1189  12843   30                  fiber.scheduler - Spawning child fiber 31 'account_adapter' (parent: 30 'ipc_connection').
+   info 2024-05-12 04:49:56.008       lsvc   main   1189  12843   31                  account_adapter - Preparing quiver based account service for os-session 501
+   info 2024-05-12 04:49:56.008       back   wrk1   1239  13937                               app.mdm - Loaded 0/648 MDM overrides.
+   info 2024-05-12 04:49:56.008       back   wrk0   1239  13936                       mac_app.backend - Incoming IPC connection.
+   info 2024-05-12 04:49:56.008       back   timr   1239  13942          base.signal.local.timer_impl - Initialized master timer.
+   info 2024-05-12 04:49:56.008       back   wrk1   1239  13937                               app.mdm - Loaded 0/648 MDM defaults.
+   info 2024-05-12 04:49:56.008       back   ctrl   1239  13935                       mac_app.backend - Starting session watcher.
+   info 2024-05-12 04:49:56.009       back   ctrl   1239  13935                       mac_app.backend - Successfully set up user console watcher.
+   info 2024-05-12 04:49:56.009       back   timr   1239  13943          base.signal.local.timer_impl - Initialized master timer.
+   info 2024-05-12 04:49:56.009       back   timr   1239  13944          base.signal.local.timer_impl - Initialized master timer.
+   info 2024-05-12 04:49:56.009       back   wrk0   1239  13936                   app.backend_session - Initializing session.
+   info 2024-05-12 04:49:56.010       back   wrk0   1239  13936                       mac_app.backend - Session count: 1
+   info 2024-05-12 04:49:56.010       back   ctrl   1239  13935                       mac_app.backend - Backend startup finished.
+   info 2024-05-12 04:49:56.010       back   ctrl   1239  13935                   app.backend_session - Starting sockets.
+   info 2024-05-12 04:49:56.010       back   main   1239  13900                       mac_app.backend - Prevent sleep
+   info 2024-05-12 04:49:56.010       back   wrk1   1239  13937                   app.backend_session - Incoming session request: Computer (1690819272)
+   info 2024-05-12 04:49:56.010       back   wrk1   1239  13937                   app.backend_session - Remote caps: sound_src, sound_sink, keyboard_sink, keyboard2, switch_sides, request_elevation, request_elevation_pw, clip_paste_files, clip_src_files, send_sas, block_input, request_vp_dimensions, keyboard_unicode, sysinfo, remote_restart, volatile_token, keyb_hint_src, filetransfer_server, filetransfer_client, remote_printing, whiteboard, tcp_tunnel, privacy_feature, encoder_reset, two_factor_auth, reverse_remote_printing, force_remote_restart, lossless_codec, report_kbd_focus, reset_vp_resolution, string_input, quality_adaptive, clipboard_split, portable, relative_mouse_input, video_mode
+   info 2024-05-12 04:49:56.010       back   wrk1   1239  13937                   app.backend_session - Remote OS: Windows, Connection flags: direct paid 3 4 
+   info 2024-05-12 04:49:56.010       back   wrk1   1239  13937                   app.backend_session - Remote version: 8.0.6
+   info 2024-05-12 04:49:56.010       back   wrk1   1239  13937                   app.backend_session - Trying to register a new backend session.
+   info 2024-05-12 04:49:56.010       back   wrk1   1239  13937                       mac_app.backend - register_session
+   info 2024-05-12 04:49:56.010       back   wrk1   1239  13937                       mac_app.backend - Waking display(s) up if asleep
+   info 2024-05-12 04:49:56.062       back   main   1239  13900                                glwrap - Initializing OpenGL: 2.1 Metal - 88
+   info 2024-05-12 04:49:56.133       back   wrk1   1239  13937                   app.backend_session - Requesting to restore permissions.
+   info 2024-05-12 04:49:56.134       back   wrk1   1239  13937                   app.backend_session - Restoring permissions. (action: 3; state: 3)
+   info 2024-05-12 04:49:56.134       back   wrk1   1239  13937                   app.backend_session - Initializing permissions.
+   info 2024-05-12 04:49:56.135       back   wrk1   1239  13937                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:49:56.135       back   wrk1   1239  13937                       clipbrd.capture - Setting new capture formats: text.
+   info 2024-05-12 04:49:56.135       back   wrk1   1239  13937                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:49:56.135       back   wrk1   1239  13937                       clipbrd.capture - Setting new capture formats: text.
+   info 2024-05-12 04:49:56.135       back   wrk1   1239  13937                   app.backend_session - Enabling local clipboard.
+   info 2024-05-12 04:49:56.135       back   wrk1   1239  13937                      app.clipbrd_comp - Engaging clipboard.
+   info 2024-05-12 04:49:56.135       back   wrk1   1239  13937                      app.clipbrd_comp - Ready.
+   info 2024-05-12 04:49:56.135       back   wrk1   1239  13937                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:49:56.135       lsvc   main   1189  12843   21                      app.session - Waiting to receive.
+   info 2024-05-12 04:49:56.135       back   wrk1   1239  13937                       clipbrd.capture - Setting new capture formats: text.
+   info 2024-05-12 04:49:56.135       lsvc   main   1189  12843   21                      app.session - Waiting to receive.
+warning 2024-05-12 04:49:56.135       back   wrk1   1239  13937                   app.backend_session - Cannot set permission 3 to on. Permission is forced to off.
+   info 2024-05-12 04:49:56.135       back   wrk1   1239  13937                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:49:56.135       back   wrk1   1239  13937                       clipbrd.capture - Setting new capture formats: text.
+   info 2024-05-12 04:49:56.135       lsvc   main   1189  12843   21                      app.session - Waiting to receive.
+   info 2024-05-12 04:49:56.135       back   wrk1   1239  13937                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:49:56.135       back   wrk1   1239  13937                       clipbrd.capture - Setting new capture formats: text.
+   info 2024-05-12 04:49:56.135       lsvc   main   1189  12843   21                      app.session - Waiting to receive.
+   info 2024-05-12 04:49:56.135       back   wrk1   1239  13937                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:49:56.135       back   wrk1   1239  13937                       clipbrd.capture - Setting new capture formats: text.
+   info 2024-05-12 04:49:56.135       lsvc   main   1189  12843   21                      app.session - Waiting to receive.
+   info 2024-05-12 04:49:56.135       back   wrk1   1239  13937                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:49:56.135       back   wrk1   1239  13937                       clipbrd.capture - Setting new capture formats: text.
+   info 2024-05-12 04:49:56.135       back   wrk1   1239  13937                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:49:56.135       back   wrk1   1239  13937                       clipbrd.capture - Setting new capture formats: text.
+   info 2024-05-12 04:49:56.135       lsvc   main   1189  12843   21                      app.session - Waiting to receive.
+   info 2024-05-12 04:49:56.135       back   wrk1   1239  13937                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:49:56.135       back   wrk1   1239  13937                       clipbrd.capture - Setting new capture formats: text.
+   info 2024-05-12 04:49:56.135       lsvc   main   1189  12843   21                      app.session - Waiting to receive.
+   info 2024-05-12 04:49:56.135       back   wrk1   1239  13937                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:49:56.135       back   wrk1   1239  13937                       clipbrd.capture - Setting new capture formats: text.
+   info 2024-05-12 04:49:56.135       lsvc   main   1189  12843   21                      app.session - Waiting to receive.
+warning 2024-05-12 04:49:56.135       back   wrk1   1239  13937                   app.backend_session - Cannot set permission 10 to on. Permission is forced to off.
+   info 2024-05-12 04:49:56.135       lsvc   main   1189  12843   21                      app.session - Waiting to receive.
+   info 2024-05-12 04:49:56.135       back   wrk1   1239  13937                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:49:56.135       back   wrk1   1239  13937                       clipbrd.capture - Setting new capture formats: text.
+   info 2024-05-12 04:49:56.135       lsvc   main   1189  12843   21                      app.session - Waiting to receive.
+   info 2024-05-12 04:49:56.135       back   wrk1   1239  13937                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:49:56.135       back   wrk1   1239  13937                       clipbrd.capture - Setting new capture formats: text.
+   info 2024-05-12 04:49:56.135       lsvc   main   1189  12843   21                      app.session - Waiting to receive.
+   info 2024-05-12 04:49:56.135       back   wrk1   1239  13937                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:49:56.135       back   wrk1   1239  13937                       clipbrd.capture - Setting new capture formats: text files.
+   info 2024-05-12 04:49:56.135       lsvc   main   1189  12843   21                      app.session - Waiting to receive.
+   info 2024-05-12 04:49:56.135       back   wrk1   1239  13937                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:49:56.135       back   wrk1   1239  13937                       clipbrd.capture - Setting new capture formats: text files.
+   info 2024-05-12 04:49:56.135       lsvc   main   1189  12843   21                      app.session - Waiting to receive.
+   info 2024-05-12 04:49:56.135       back   wrk1   1239  13937                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:49:56.135       back   wrk1   1239  13937                       clipbrd.capture - Setting new capture formats: text files.
+   info 2024-05-12 04:49:56.135       lsvc   main   1189  12843   21                      app.session - Waiting to receive.
+   info 2024-05-12 04:49:56.135       back   wrk1   1239  13937                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:49:56.135       back   wrk1   1239  13937                       clipbrd.capture - Setting new capture formats: text files.
+   info 2024-05-12 04:49:56.135       lsvc   main   1189  12843   21                      app.session - Waiting to receive.
+   info 2024-05-12 04:49:56.135       back   wrk1   1239  13937                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:49:56.135       back   wrk1   1239  13937                       clipbrd.capture - Setting new capture formats: text files.
+   info 2024-05-12 04:49:56.135       lsvc   main   1189  12843   21                      app.session - Waiting to receive.
+   info 2024-05-12 04:49:56.135       back   wrk1   1239  13937                   app.backend_session - Checking capabilities.
+   info 2024-05-12 04:49:56.135       lsvc   main   1189  12843   21                      app.session - Waiting to receive.
+warning 2024-05-12 04:49:56.142       back   wrk1   1239  13937                   app.backend_session - Removing remote restart flag (0 / 0)
+   info 2024-05-12 04:49:56.142       back   wrk1   1239  13937                   app.backend_session - Acknowledging session.
+   info 2024-05-12 04:49:56.142       lsvc   main   1189  12843   21                      app.session - Waiting to receive.
+   info 2024-05-12 04:49:56.142       lsvc   main   1189  12843   21                      app.session - Send route info for the accept window.
+   info 2024-05-12 04:49:56.142       lsvc   main   1189  12843   21                      app.session - 2: Session acknowledged.
+   info 2024-05-12 04:49:56.142       back   wrk1   1239  13937                   desk_rt.auto_adjust - Route type: tunnel (internet)
+   info 2024-05-12 04:49:56.142       lsvc   main   1189  12843   21                      app.session - 3: Authentication 65 0.
+   auth 2024-05-12 04:49:59.349       lsvc   main   1189  12843   21                      app.session - Authenticated by local user.
+   info 2024-05-12 04:49:59.349       lsvc   main   1189  12843   21                      app.session - 4: Waiting for the backend to be ready.
+   info 2024-05-12 04:49:59.349       back   ctrl   1239  13935                   app.backend_session - Starting session (deskrt, clipboard, chat, audio, input, tcp_tunnel).
+   info 2024-05-12 04:49:59.349       back   timr   1239  14003          base.signal.local.timer_impl - Initialized master timer.
+   info 2024-05-12 04:49:59.349       back   ctrl   1239  13935                       desk_rt.encoder - 8 segments.
+   info 2024-05-12 04:49:59.349       back   ctrl   1239  13935                     base.monitor_info - 1 active monitor(s) found.
+   info 2024-05-12 04:49:59.349       back   ctrl   1239  13935                   app.backend_session - Continuing session start.
+   info 2024-05-12 04:49:59.349       back   ctrl   1239  13935             desk_rt.capture_component - Starting capture.
+   info 2024-05-12 04:49:59.350       back   ctrl   1239  13935                     base.monitor_info - 1 active monitor(s) found.
+   info 2024-05-12 04:49:59.350       back   ctrl   1239  13935             capture.cg_stream_capture - Capturing at res: 1440x900
+   info 2024-05-12 04:49:59.355       back   wrk0   1239  13936             desk_rt.capture_component - Keyboard layout changed to: unknown
+   info 2024-05-12 04:49:59.355       back   ctrl   1239  13935                        app.mouse_sink - Starting mouse sink.
+   info 2024-05-12 04:49:59.356       back   ctrl   1239  13935                   app.backend_session - Sending input (11) permissions (enabled allowed supported)
+   info 2024-05-12 04:49:59.356       back   ctrl   1239  13935                   app.backend_session - Sending audio (11) permissions (enabled allowed supported)
+   info 2024-05-12 04:49:59.356       lsvc   main   1189  12843   21                      app.session - 4: Backend ready.
+   info 2024-05-12 04:49:59.356       lsvc   main   1189  12843   21                      app.session - 5: Entering processing loop.
+   info 2024-05-12 04:49:59.356       back   ctrl   1239  13935                   app.backend_session - Sending clipboard (11) permissions (enabled allowed supported)
+   info 2024-05-12 04:49:59.356       lsvc   main   1189  12843   21         anynet.client_packetizer - Adjusted send buffer: 8192
+   info 2024-05-12 04:49:59.356       back   ctrl   1239  13935                   app.backend_session - Sending block input (0) permissions (forbidden unsupported)
+   info 2024-05-12 04:49:59.356       back   ctrl   1239  13935                   app.backend_session - Sending SAS (9) permissions (allowed supported)
+   info 2024-05-12 04:49:59.356       back   ctrl   1239  13935                   app.backend_session - Sending file manager (11) permissions (enabled allowed supported)
+   info 2024-05-12 04:49:59.356       back   ctrl   1239  13935                   app.backend_session - Sending lock account (9) permissions (allowed supported)
+   info 2024-05-12 04:49:59.356       back   ctrl   1239  13935                   app.backend_session - Sending record session (9) permissions (allowed supported)
+   info 2024-05-12 04:49:59.356       back   ctrl   1239  13935                   app.backend_session - Sending whiteboard (9) permissions (allowed supported)
+   info 2024-05-12 04:49:59.356       back   ctrl   1239  13935                   app.backend_session - Sending TCP tunneling (10) permissions (enabled forbidden supported)
+   info 2024-05-12 04:49:59.356       back   ctrl   1239  13935                   app.backend_session - Sending VPN (2) permissions (enabled forbidden unsupported)
+   info 2024-05-12 04:49:59.356       back   ctrl   1239  13935                   app.backend_session - Sending privacy (12) permissions (disabled forbidden supported)
+   info 2024-05-12 04:49:59.356       back   wrk1   1239  13937                   desk_rt.auto_adjust - Route type: tunnel (internet)
+   info 2024-05-12 04:49:59.356       back   ctrl   1239  13935                   app.backend_session - Sending clilpboard files (11) permissions (enabled allowed supported)
+   info 2024-05-12 04:49:59.356       back   ctrl   1239  13935                   app.backend_session - Sending restart (9) permissions (allowed supported)
+   info 2024-05-12 04:49:59.356       back   ctrl   1239  13935                   app.backend_session - Sending sysinfo (11) permissions (enabled allowed supported)
+   info 2024-05-12 04:49:59.356       back   ctrl   1239  13935                   app.backend_session - Sending mouse pointer (9) permissions (allowed supported)
+   info 2024-05-12 04:49:59.356       back   ctrl   1239  13935                   app.backend_session - Sending modify_forbidden_windows (8) permissions (forbidden supported)
+   info 2024-05-12 04:49:59.356       back   ctrl   1239  13935                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:49:59.356       back   ctrl   1239  13935                       clipbrd.capture - Setting new capture formats: text files.
+   info 2024-05-12 04:49:59.356       back   ctrl   1239  13935                   app.backend_session - Session started (ok).
+   info 2024-05-12 04:49:59.356       lsvc   main   1189  12843   21         anynet.client_packetizer - Adjusted send buffer: 8192
+   info 2024-05-12 04:49:59.360       back   wrk0   1239  13936             desk_rt.capture_component - Keyboard layout changed to: unknown
+   info 2024-05-12 04:49:59.492       back          1239  13980             capture.cg_stream_capture - start_capture using ScreenCaptureKit
+   info 2024-05-12 04:50:00.701       back   wrk2   1239  13938                   app.backend_session - Received new mouse cursor parameters (2).
+   info 2024-05-12 04:50:00.702       back   wrk2   1239  13938           desk_rt.system_event_source - Enabled mouse cursor
+   info 2024-05-12 04:50:00.701       back   wrk1   1239  13937                   app.backend_session - Received new gui feedback parameters (0).
+   info 2024-05-12 04:50:00.702       back   wrk2   1239  13938                   app.backend_session - Received new audio parameters (1).
+   info 2024-05-12 04:50:00.702       back   wrk1   1239  13937           desk_rt.system_event_source - Disabled gui feedback
+   info 2024-05-12 04:50:00.702       back   wrk2   1239  13938                   app.backend_session - Received new video quality (20).
+   info 2024-05-12 04:50:00.702       back   wrk1   1239  13937                   app.backend_session - Received new auto-quality preset (1).
+   info 2024-05-12 04:50:00.702       back   wrk1   1239  13937                   desk_rt.auto_adjust - New preset: 0.
+   info 2024-05-12 04:50:00.702       back   wrk2   1239  13938                   app.backend_session - Enabling capture.
+   info 2024-05-12 04:50:00.702       back   wrk3   1239  13939                   app.backend_session - Received new image quality (7).
+   info 2024-05-12 04:50:00.702       back   wrk0   1239  13936                       desk_rt.encoder - Format changed to 1440x900 (X8R8G8B8).
+   info 2024-05-12 04:50:00.723       back   main   1239  13900                    app.input_injector - release_keys mod keys up
+   info 2024-05-12 04:50:00.723       back   main   1239  13900                    app.input_injector - release_keys mod keys up
+   info 2024-05-12 04:50:00.974       back   main   1239  13900                    app.input_injector - release_keys mod keys up
+   info 2024-05-12 04:50:02.402       lsvc   main   1189  12843   21         anynet.client_packetizer - Adjusted send buffer: 16384
+   info 2024-05-12 04:50:03.362       back   wrk1   1239  13937                   desk_rt.auto_adjust - Forced adjust because of a timeout (48.75 kb/s).
+   info 2024-05-12 04:50:03.362       back   wrk1   1239  13937                   desk_rt.auto_adjust - Adjusting for < 90 kb/s
+   info 2024-05-12 04:50:03.362       back   wrk1   1239  13937                    audio.opus_encoder - Bitrate set to 65452 bits/s.
+   info 2024-05-12 04:50:03.704       back   wrk1   1239  13937                   app.backend_session - Received a thumbnail request.
+   info 2024-05-12 04:50:03.772       back   wrk1   1239  13937                   app.backend_session - Sending a new thumbnail.
+   info 2024-05-12 04:50:06.775       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:06.776       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text files.
+   info 2024-05-12 04:50:06.779       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:06.779       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text files.
+   info 2024-05-12 04:50:06.782       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:06.782       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text files.
+warning 2024-05-12 04:50:06.785       back   main   1239  13900                   app.backend_session - Cannot set permission 3 to on. Permission is forced to off.
+   info 2024-05-12 04:50:06.785       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:06.785       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text files.
+   info 2024-05-12 04:50:06.787       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:06.787       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text files.
+   info 2024-05-12 04:50:06.789       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:06.790       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text files.
+   info 2024-05-12 04:50:06.792       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:06.792       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text files.
+   info 2024-05-12 04:50:06.794       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:06.794       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text files.
+   info 2024-05-12 04:50:06.796       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:06.796       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text files.
+   info 2024-05-12 04:50:06.798       back   main   1239  13900                   app.backend_session - Sending TCP tunneling (11) permissions (enabled allowed supported)
+   info 2024-05-12 04:50:06.798       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:06.798       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text files.
+warning 2024-05-12 04:50:06.800       back   main   1239  13900                   app.backend_session - Cannot set permission 10 to on. Permission is forced to off.
+   info 2024-05-12 04:50:06.800       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:06.800       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text files.
+   info 2024-05-12 04:50:06.802       back   main   1239  13900                   app.backend_session - Sending privacy (13) permissions (disabled allowed supported)
+   info 2024-05-12 04:50:06.802       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:06.802       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text files.
+   info 2024-05-12 04:50:06.804       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:06.804       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text files.
+   info 2024-05-12 04:50:06.806       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:06.806       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text files.
+   info 2024-05-12 04:50:06.808       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:06.808       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text files.
+   info 2024-05-12 04:50:06.809       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:06.809       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text files.
+   info 2024-05-12 04:50:06.811       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:06.811       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text files.
+   info 2024-05-12 04:50:06.814       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:06.814       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text files.
+   info 2024-05-12 04:50:07.521       lsvc   main   1189  12843   21           app.session_tcp_tunnel - Received setup request.
+   info 2024-05-12 04:50:07.521       lsvc   main   1189  12843   21           app.session_tcp_tunnel - Starting. Namespace: 5FC99AC2
+   info 2024-05-12 04:50:09.423       lsvc   main   1189  12843   25           anynet.punch_connector - [19.168.82.251:7070] Connection failed (result_timeout).
+   info 2024-05-12 04:50:09.424       lsvc   main   1189  12843                       fiber.scheduler - Fiber 25 (parent: 24) terminated.
+   info 2024-05-12 04:50:09.424       lsvc   main   1189  12843   26           anynet.punch_connector - [19.168.82.251:7070] Connection failed (result_timeout).
+   info 2024-05-12 04:50:09.424       lsvc   main   1189  12843                       fiber.scheduler - Fiber 26 (parent: 24) terminated.
+   info 2024-05-12 04:50:09.424       lsvc   main   1189  12843   24           anynet.punch_connector - All connect fibers have failed.
+   info 2024-05-12 04:50:14.424       lsvc   main   1189  12843   24           anynet.punch_connector - Quit timeout has expired. Connect failed.
+   info 2024-05-12 04:50:14.425       lsvc   main   1189  12843                       fiber.scheduler - Fiber 24 (parent: 23 'managed_client_conn') terminated.
+  error 2024-05-12 04:50:14.425       lsvc   main   1189  12843   23       anynet.managed_client_conn - Connect error (result_unknown).
+   info 2024-05-12 04:50:14.425       lsvc   main   1189  12843   23            anynet.connection_mgr - Forcing cleanup.
+   info 2024-05-12 04:50:14.425       lsvc   main   1189  12843   23       anynet.managed_client_conn - Managed client connection failed.
+   info 2024-05-12 04:50:14.425       lsvc   main   1189  12843                       fiber.scheduler - Fiber 23 'managed_client_conn' terminated.
+   info 2024-05-12 04:50:14.425       lsvc   main   1189  12843    6            anynet.connection_mgr - Managed client connection with 8e70f6959bf6f72b6c61d2f280d6ad9b160088ba failed (result_unknown).
+   info 2024-05-12 04:50:14.425       lsvc   main   1189  12843    6            anynet.connection_mgr - Cleaned up 1/1 managed client connections.
+   info 2024-05-12 04:50:14.425       lsvc   main   1189  12843   22                anynet.any_socket - Direct connection closed (result_unknown).
+   info 2024-05-12 04:50:16.041       back   main   1239  13900                   app.backend_session - Sending input (10) permissions (enabled forbidden supported)
+   info 2024-05-12 04:50:16.041       back   main   1239  13900                   app.backend_session - Sending SAS (8) permissions (forbidden supported)
+   info 2024-05-12 04:50:16.041       back   main   1239  13900                   app.backend_session - Sending lock account (8) permissions (forbidden supported)
+   info 2024-05-12 04:50:16.041       back   main   1239  13900                   app.backend_session - Sending privacy (12) permissions (disabled forbidden supported)
+   info 2024-05-12 04:50:16.041       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:16.041       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text files.
+   info 2024-05-12 04:50:16.046       back   main   1239  13900                   app.backend_session - Sending audio (10) permissions (enabled forbidden supported)
+   info 2024-05-12 04:50:16.046       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:16.046       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text files.
+   info 2024-05-12 04:50:16.049       back   main   1239  13900                   app.backend_session - Disabling local clipboard.
+   info 2024-05-12 04:50:16.049       back   main   1239  13900                      app.clipbrd_comp - Closing clipboard.
+   info 2024-05-12 04:50:16.049       back   main   1239  13900                      app.clipbrd_comp - Clearing clipboard.
+   info 2024-05-12 04:50:16.049       back   main   1239  13900                      app.clipbrd_comp - Clipboard closed.
+   info 2024-05-12 04:50:16.049       back   main   1239  13900                   app.backend_session - Sending clipboard (10) permissions (enabled forbidden supported)
+   info 2024-05-12 04:50:16.049       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:16.049       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text files.
+   info 2024-05-12 04:50:16.052       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:16.052       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text files.
+   info 2024-05-12 04:50:16.054       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:16.054       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text files.
+   info 2024-05-12 04:50:16.056       back   main   1239  13900                   app.backend_session - Sending file manager (10) permissions (enabled forbidden supported)
+   info 2024-05-12 04:50:16.056       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:16.056       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text files.
+   info 2024-05-12 04:50:16.058       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:16.058       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text files.
+   info 2024-05-12 04:50:16.061       back   main   1239  13900                   app.backend_session - Sending record session (8) permissions (forbidden supported)
+   info 2024-05-12 04:50:16.061       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:16.061       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text files.
+   info 2024-05-12 04:50:16.063       back   main   1239  13900                   app.backend_session - Sending whiteboard (8) permissions (forbidden supported)
+   info 2024-05-12 04:50:16.063       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:16.063       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text files.
+   info 2024-05-12 04:50:16.065       back   main   1239  13900                   app.backend_session - Sending TCP tunneling (10) permissions (enabled forbidden supported)
+   info 2024-05-12 04:50:16.065       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:16.065       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text files.
+   info 2024-05-12 04:50:16.067       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:16.067       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text files.
+   info 2024-05-12 04:50:16.069       back   main   1239  13900                   app.backend_session - The remote user requested privacy mode to end.
+   info 2024-05-12 04:50:16.069       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:16.069       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text files.
+   info 2024-05-12 04:50:16.071       back   main   1239  13900                   app.backend_session - Sending clilpboard files (10) permissions (enabled forbidden supported)
+   info 2024-05-12 04:50:16.071       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:16.071       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text.
+   info 2024-05-12 04:50:16.073       back   main   1239  13900                   app.backend_session - Sending restart (8) permissions (forbidden supported)
+   info 2024-05-12 04:50:16.073       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:16.073       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text.
+   info 2024-05-12 04:50:16.075       back   main   1239  13900                   app.backend_session - Sending sysinfo (10) permissions (enabled forbidden supported)
+   info 2024-05-12 04:50:16.075       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:16.075       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text.
+   info 2024-05-12 04:50:16.076       back   main   1239  13900                   app.backend_session - Sending mouse pointer (8) permissions (forbidden supported)
+   info 2024-05-12 04:50:16.076       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:16.076       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text.
+   info 2024-05-12 04:50:16.078       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:16.078       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text.
+   info 2024-05-12 04:50:16.081       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:16.081       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text.
+   info 2024-05-12 04:50:16.092       back   main   1239  13900                    app.input_injector - release_keys mod keys up
+   info 2024-05-12 04:50:40.598       lsvc   main   1189  12843   21         anynet.client_packetizer - Adjusted send buffer: 24576
+   info 2024-05-12 04:50:45.257       lsvc   main   1189  12843   21         anynet.client_packetizer - Adjusted send buffer: 32768
+   info 2024-05-12 04:50:47.707       lsvc   main   1189  12843   21         anynet.client_packetizer - Adjusted send buffer: 40960
+   info 2024-05-12 04:50:49.098       lsvc   main   1189  12843   21         anynet.client_packetizer - Adjusted send buffer: 49152
+   info 2024-05-12 04:50:52.640       back   main   1239  13900                   app.backend_session - Sending input (11) permissions (enabled allowed supported)
+   info 2024-05-12 04:50:52.640       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:52.641       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text.
+   info 2024-05-12 04:50:52.646       back   main   1239  13900                   app.backend_session - Sending audio (11) permissions (enabled allowed supported)
+   info 2024-05-12 04:50:52.646       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:52.646       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text.
+   info 2024-05-12 04:50:52.649       back   main   1239  13900                   app.backend_session - Enabling local clipboard.
+   info 2024-05-12 04:50:52.649       back   main   1239  13900                      app.clipbrd_comp - Engaging clipboard.
+   info 2024-05-12 04:50:52.649       back   main   1239  13900                      app.clipbrd_comp - Ready.
+   info 2024-05-12 04:50:52.649       back   main   1239  13900                   app.backend_session - Sending clipboard (11) permissions (enabled allowed supported)
+   info 2024-05-12 04:50:52.649       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:52.649       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text.
+warning 2024-05-12 04:50:52.652       back   main   1239  13900                   app.backend_session - Cannot set permission 3 to on. Permission is forced to off.
+   info 2024-05-12 04:50:52.652       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:52.652       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text.
+   info 2024-05-12 04:50:52.655       back   main   1239  13900                   app.backend_session - Sending SAS (9) permissions (allowed supported)
+   info 2024-05-12 04:50:52.655       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:52.655       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text.
+   info 2024-05-12 04:50:52.657       back   main   1239  13900                   app.backend_session - Sending file manager (11) permissions (enabled allowed supported)
+   info 2024-05-12 04:50:52.657       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:52.657       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text.
+   info 2024-05-12 04:50:52.659       back   main   1239  13900                   app.backend_session - Sending lock account (9) permissions (allowed supported)
+   info 2024-05-12 04:50:52.659       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:52.659       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text.
+   info 2024-05-12 04:50:52.662       back   main   1239  13900                   app.backend_session - Sending record session (9) permissions (allowed supported)
+   info 2024-05-12 04:50:52.662       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:52.662       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text.
+   info 2024-05-12 04:50:52.664       back   main   1239  13900                   app.backend_session - Sending whiteboard (9) permissions (allowed supported)
+   info 2024-05-12 04:50:52.664       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:52.664       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text.
+   info 2024-05-12 04:50:52.666       back   main   1239  13900                   app.backend_session - Sending TCP tunneling (11) permissions (enabled allowed supported)
+   info 2024-05-12 04:50:52.666       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:52.666       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text.
+warning 2024-05-12 04:50:52.668       back   main   1239  13900                   app.backend_session - Cannot set permission 10 to on. Permission is forced to off.
+   info 2024-05-12 04:50:52.668       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:52.668       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text.
+   info 2024-05-12 04:50:52.670       back   main   1239  13900                   app.backend_session - Sending privacy (13) permissions (disabled allowed supported)
+   info 2024-05-12 04:50:52.670       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:52.670       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text.
+   info 2024-05-12 04:50:52.672       back   main   1239  13900                   app.backend_session - Sending clilpboard files (11) permissions (enabled allowed supported)
+   info 2024-05-12 04:50:52.672       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:52.672       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text files.
+   info 2024-05-12 04:50:52.674       back   main   1239  13900                   app.backend_session - Sending restart (9) permissions (allowed supported)
+   info 2024-05-12 04:50:52.674       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:52.674       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text files.
+   info 2024-05-12 04:50:52.676       back   main   1239  13900                   app.backend_session - Sending sysinfo (11) permissions (enabled allowed supported)
+   info 2024-05-12 04:50:52.676       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:52.676       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text files.
+   info 2024-05-12 04:50:52.677       back   main   1239  13900                   app.backend_session - Sending mouse pointer (9) permissions (allowed supported)
+   info 2024-05-12 04:50:52.677       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:52.677       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text files.
+   info 2024-05-12 04:50:52.679       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:52.679       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text files.
+   info 2024-05-12 04:50:52.682       back   main   1239  13900                   app.backend_session - Requesting to store permissions.
+   info 2024-05-12 04:50:52.682       back   main   1239  13900                       clipbrd.capture - Setting new capture formats: text files.
+   info 2024-05-12 04:50:53.020       lsvc   main   1189  12843   21           app.session_tcp_tunnel - Received setup request.
+   info 2024-05-12 04:50:53.020       lsvc   main   1189  12843   21           app.session_tcp_tunnel - Starting. Namespace: B34B2266
+   info 2024-05-12 04:50:58.492       back   main   1239  13900                      gui.arrow_window - Created.
+   info 2024-05-12 04:51:03.974       back   main   1239  13900                    app.input_injector - release_keys mod keys up
+   info 2024-05-12 04:51:31.582       back   main   1239  13900                    app.input_injector - release_keys mod keys up
+   info 2024-05-12 04:51:35.540       back   main   1239  13900                    app.input_injector - release_keys mod keys up
+   info 2024-05-12 04:51:42.339       back   wrk1   1239  13937                      app.clipbrd_comp - Got a text offer (38 b).
+   info 2024-05-12 04:52:17.073       back   main   1239  13900                    app.input_injector - release_keys mod keys up
+   info 2024-05-12 04:52:22.061       back   wrk1   1239  13937                      app.clipbrd_comp - Got a text offer (12 b).
+   info 2024-05-12 04:53:41.853       lsvc   main   1189  12843   21         anynet.client_packetizer - Adjusted send buffer: 57344
+   info 2024-05-12 04:56:16.782       lsvc   main   1189  12843   21         anynet.client_packetizer - Adjusted send buffer: 65536
+   info 2024-05-12 04:58:23.089       lsvc   main   1189  12843   21                      app.session - Session closed locally: desk_rt_user_close.
+   info 2024-05-12 04:58:23.089       back   ctrl   1239  13935                   app.backend_session - Stopping session.
+   info 2024-05-12 04:58:23.091       lsvc   main   1189  12843   21                      app.session - 5: Processing done.
+   info 2024-05-12 04:58:23.091       back   wrk0   1239  13936                   app.backend_session - The socket was closed remotely.
+   info 2024-05-12 04:58:23.091       lsvc   main   1189  12843                       fiber.scheduler - Fiber 21 'anynet_connection' (parent: 1) requested quit of fiber 22 'any_socket_accept'.
+   info 2024-05-12 04:58:23.091       lsvc   main   1189  12843   22                anynet.any_socket - Received quit.
+   info 2024-05-12 04:58:23.091       lsvc   main   1189  12843   22                anynet.any_socket - Accept fiber stopped.
+   info 2024-05-12 04:58:23.091       lsvc   main   1189  12843                       fiber.scheduler - Fiber 22 'any_socket_accept' terminated.
+  error 2024-05-12 04:58:23.091       back   wrk1   1239  13937                    app.tunnel_ft_comp - Invalid session id in cancel operation (21).
+   info 2024-05-12 04:58:23.092       lsvc   main   1189  12843   21                      app.service - Fiber exit (net).
+   info 2024-05-12 04:58:23.092       lsvc   main   1189  12843                       fiber.scheduler - Fiber 21 'anynet_connection' (parent: 1) terminated.
+warning 2024-05-12 04:58:23.092       lsvc   main   1189  12843   30                      app.service - block_input pckt received on unauthorized svc!
+   info 2024-05-12 04:58:23.095       back   main   1239  13900                    app.input_injector - release_keys mod keys up
+   info 2024-05-12 04:58:23.097       back   timr   1239  14003          base.signal.local.timer_impl - Timer wants to quit.
+   info 2024-05-12 04:58:23.121       back   ctrl   1239  13935                      app.clipbrd_comp - Closing clipboard.
+   info 2024-05-12 04:58:23.121       back   ctrl   1239  13935                      app.clipbrd_comp - Clearing clipboard.
+   info 2024-05-12 04:58:23.121       back   ctrl   1239  13935                      app.clipbrd_comp - Clipboard closed.
+   info 2024-05-12 04:58:23.121       back   ctrl   1239  13935                   app.backend_session - Session stopped.
+   info 2024-05-12 04:58:23.123       back   ctrl   1239  13935                       mac_app.backend - Deleting session..
+   info 2024-05-12 04:58:23.123       back   ctrl   1239  13935                   app.backend_session - Destroying.
+   info 2024-05-12 04:58:23.123       back   ctrl   1239  13935                   app.backend_session - Destroyed.
+   info 2024-05-12 04:58:23.123       back   timr   1239  13944          base.signal.local.timer_impl - Timer wants to quit.
+warning 2024-05-12 04:58:23.123       lsvc   main   1189  12843   30                      app.service - block_input pckt received on unauthorized svc!
+   info 2024-05-12 04:58:23.123       back   timr   1239  13943          base.signal.local.timer_impl - Timer wants to quit.
+   info 2024-05-12 04:58:23.123       back   ctrl   1239  13935              base.prot.job_dispatcher - 0 undelivered packets.
+   info 2024-05-12 04:58:23.123       back   timr   1239  13942          base.signal.local.timer_impl - Timer wants to quit.
+   info 2024-05-12 04:58:23.123       back   ctrl   1239  13935                       mac_app.backend - Session count: 0
+   info 2024-05-12 04:58:23.123       back   ctrl   1239  13935                       mac_app.backend - Initiating shutdown.
+   info 2024-05-12 04:58:23.124       back   ctrl   1239  13935                       mac_app.backend - Backend is shutting down.
+   info 2024-05-12 04:58:23.124       back   ctrl   1239  13935                    app.tunnel_ft_comp - Stopping file component.
+   info 2024-05-12 04:58:23.124       back   ctrl   1239  13935                    desk_rt.cg_capture - Capture stopped.
+   info 2024-05-12 04:58:23.124       lsvc   main   1189  12843    1                      app.service - Process stop: 1239.
+   info 2024-05-12 04:58:23.125       lsvc   main   1189  12843   30                      app.service - IPC socket closed.
+   info 2024-05-12 04:58:23.125       lsvc   main   1189  12843                       fiber.scheduler - Fiber 30 'ipc_connection' (parent: 1) requested quit of fiber 31 'account_adapter' (parent: 30 'ipc_connection').
+   info 2024-05-12 04:58:23.125       back   ctrl   1239  13935                       mac_app.backend - Backend has been stopped.
+   info 2024-05-12 04:58:23.125       lsvc   main   1189  12843   31                      fiber.fiber - Received quit.
+   info 2024-05-12 04:58:23.125       lsvc   main   1189  12843                       fiber.scheduler - Fiber 31 'account_adapter' (parent: 30 'ipc_connection') terminated.
+   info 2024-05-12 04:58:23.125       lsvc   main   1189  12843   30                      app.service - Fiber exit (ipc).
+   info 2024-05-12 04:58:23.125       lsvc   main   1189  12843                       fiber.scheduler - Fiber 30 'ipc_connection' (parent: 1) terminated.
+   info 2024-05-12 04:58:23.126       back   main   1239  13900                           AppDelegate - Nothing detected (0).
+   info 2024-05-12 04:58:23.126       back   main   1239  13900                       mac_app.backend - Stopping the backend.
+   info 2024-05-12 04:58:23.126       back   ctrl   1239  13935                       mac_app.backend - Backend is shutting down.
+   info 2024-05-12 04:58:23.126       back   ctrl   1239  13935                    app.tunnel_ft_comp - Stopping file component.
+   info 2024-05-12 04:58:23.126       back   ctrl   1239  13935                       mac_app.backend - Backend has been stopped.
+   info 2024-05-12 04:58:36.341      front   main   1188  12804                           AppDelegate - Nothing detected (0).
+   info 2024-05-12 04:58:36.341      front   ctrl   1188  12908                      mac_app.frontend - Frontend shutdown.
+   info 2024-05-12 04:58:36.342      front   ctrl   1188  12908                      mac_app.frontend - Terminating the service
+   info 2024-05-12 04:58:36.342       lsvc   main   1189  12843   16                      app.service - Terminating the service.
+   info 2024-05-12 04:58:36.342       lsvc   main   1189  12843   16                  fiber.scheduler - Quitting scheduler (0).
+   info 2024-05-12 04:58:36.342       lsvc   main   1189  12843    1                      app.service - Process stop: 1188.
+   info 2024-05-12 04:58:36.342       lsvc   main   1189  12843    1           anynet.relay_connector - Short timeouts disabled.
+   info 2024-05-12 04:58:36.342       lsvc   main   1189  12843                       fiber.scheduler - Quitting all fibers.
+   info 2024-05-12 04:58:36.342       lsvc   main   1189  12843                       fiber.scheduler - Fiber 1 requested quit of fiber 4 (parent: 1).
+   info 2024-05-12 04:58:36.343       lsvc   main   1189  12843                       fiber.scheduler - Fiber 4 (parent: 1) terminated.
+   info 2024-05-12 04:58:36.343       lsvc   main   1189  12843    6            anynet.connection_mgr - Connection manager fiber quit.
+   info 2024-05-12 04:58:36.343       lsvc   main   1189  12843                       fiber.scheduler - Fiber 6 'connection_mgr' terminated.
+   info 2024-05-12 04:58:36.343       lsvc   main   1189  12843    7           anynet.main_relay_conn - Main relay connection closed.
+   info 2024-05-12 04:58:36.344       lsvc   main   1189  12843    7            anynet.connection_mgr - Forcing cleanup.
+   info 2024-05-12 04:58:36.344       lsvc   main   1189  12843                       fiber.scheduler - Fiber 7 'main_relay_conn' requested quit of fiber 19.
+   info 2024-05-12 04:58:36.344       lsvc   main   1189  12843    8              anynet.tcp_acceptor - Received quit.
+   info 2024-05-12 04:58:36.344       lsvc   main   1189  12843                       fiber.scheduler - Fiber 8 'tcp_acceptor' terminated.
+   info 2024-05-12 04:58:36.344       lsvc   main   1189  12843    9              anynet.tcp_acceptor - Received quit.
+   info 2024-05-12 04:58:36.344       lsvc   main   1189  12843                       fiber.scheduler - Fiber 9 'tcp_acceptor' terminated.
+   info 2024-05-12 04:58:36.344       lsvc   main   1189  12843   10                anynet.any_socket - Listen fiber stopped.
+   info 2024-05-12 04:58:36.344       lsvc   main   1189  12843                       fiber.scheduler - Fiber 10 terminated.
+   info 2024-05-12 04:58:36.344       lsvc   main   1189  12843   18                      fiber.fiber - Received quit.
+   info 2024-05-12 04:58:36.344       lsvc   main   1189  12843                       fiber.scheduler - Fiber 18 terminated.
+   info 2024-05-12 04:58:36.344       lsvc   main   1189  12843   19                      fiber.fiber - Received quit.
+   info 2024-05-12 04:58:36.344       lsvc   main   1189  12843                       fiber.scheduler - Fiber 19 terminated.
+   info 2024-05-12 04:58:36.345       lsvc   main   1189  12843   20                    app.discovery - Left multicast group 239.255.102.18:50001.
+   info 2024-05-12 04:58:36.345       lsvc   main   1189  12843   20                    app.discovery - Discovery fiber stopped.
+   info 2024-05-12 04:58:36.345       lsvc   main   1189  12843                       fiber.scheduler - Fiber 20 'discovery' terminated.
+   info 2024-05-12 04:58:36.345       lsvc   main   1189  12843                       fiber.scheduler - Fiber 1 requested quit of fiber 5 'license_adapter' (parent: 1).
+   info 2024-05-12 04:58:36.345       lsvc   main   1189  12843                       fiber.scheduler - Fiber 7 'main_relay_conn' terminated.
+   info 2024-05-12 04:58:36.345       lsvc   main   1189  12843    5                      fib_service - Caught exception. quitting.
+   info 2024-05-12 04:58:36.345       lsvc   main   1189  12843                       fiber.scheduler - Fiber 5 'license_adapter' (parent: 1) terminated.
+   info 2024-05-12 04:58:36.345       lsvc   main   1189  12843                       fiber.scheduler - Fiber 1 requested quit of fiber 3 'notifications' (parent: 1).
+   info 2024-05-12 04:58:36.345       lsvc   main   1189  12843    3                      fib_service - Caught exception. quitting.
+   info 2024-05-12 04:58:36.345       lsvc   main   1189  12843                       fiber.scheduler - Fiber 3 'notifications' (parent: 1) terminated.
+   info 2024-05-12 04:58:36.345       lsvc   main   1189  12843                       fiber.scheduler - Fiber 1 requested quit of fiber 2 (parent: 1).
+   info 2024-05-12 04:58:36.345       lsvc   main   1189  12843                       fiber.scheduler - Fiber 2 (parent: 1) terminated.
+   info 2024-05-12 04:58:36.345       lsvc   main   1189  12843                       fiber.scheduler - Fiber 1 requested quit of fiber 13 'ancl' (parent: 1).
+   info 2024-05-12 04:58:36.346       lsvc   main   1189  12843   13                      fib_service - Caught exception. quitting.
+   info 2024-05-12 04:58:36.346       lsvc   main   1189  12843                       fiber.scheduler - Fiber 13 'ancl' (parent: 1) terminated.
+   info 2024-05-12 04:58:36.346       lsvc   main   1189  12843    1                      app.service - Service shutdown.
+   info 2024-05-12 04:58:36.346       lsvc   main   1189  12843                       fiber.scheduler - Fiber 1 requested quit of fiber 11 'wol_service' (parent: 1).
+   info 2024-05-12 04:58:36.346       lsvc   main   1189  12843   11                      fiber.fiber - Received quit.
+   info 2024-05-12 04:58:36.346       lsvc   main   1189  12843                       fiber.scheduler - Fiber 11 'wol_service' (parent: 1) terminated.
+   info 2024-05-12 04:58:36.346       lsvc   main   1189  12843                       fiber.scheduler - Fiber 1 requested quit of fiber 12 'invitation_service' (parent: 1).
+   info 2024-05-12 04:58:36.346       lsvc   main   1189  12843   12                      fib_service - Caught exception. quitting.
+   info 2024-05-12 04:58:36.346       lsvc   main   1189  12843                       fiber.scheduler - Fiber 12 'invitation_service' (parent: 1) terminated.
+   info 2024-05-12 04:58:36.346       lsvc   main   1189  12843                       fiber.scheduler - Fiber 1 requested quit of fiber 14 'quiver_anynet_service' (parent: 1).
+   info 2024-05-12 04:58:36.346       lsvc   main   1189  12843                       fiber.scheduler - Fiber 14 'quiver_anynet_service' (parent: 1) terminated.
+   info 2024-05-12 04:58:36.346       lsvc   main   1189  12843                       fiber.scheduler - Fiber 1 requested quit of fiber 16 'ipc_connection' (parent: 1).
+   info 2024-05-12 04:58:36.346       lsvc   main   1189  12843                       fiber.scheduler - Fiber 16 'ipc_connection' (parent: 1) requested quit of fiber 17 'account_adapter' (parent: 16 'ipc_connection').
+   info 2024-05-12 04:58:36.346       lsvc   main   1189  12843   17                      fiber.fiber - Received quit.
+   info 2024-05-12 04:58:36.346       lsvc   main   1189  12843                       fiber.scheduler - Fiber 17 'account_adapter' (parent: 16 'ipc_connection') terminated.
+   info 2024-05-12 04:58:36.346      front   wrk0   1188  12909                      mac_app.frontend - Service connection lost.
+   info 2024-05-12 04:58:36.795       lsvc   main   1189  12843   16                      app.service - Fiber exit (ipc).
+   info 2024-05-12 04:58:36.796       lsvc   main   1189  12843                       fiber.scheduler - Fiber 16 'ipc_connection' (parent: 1) terminated.
+   info 2024-05-12 04:58:36.796       lsvc   main   1189  12843    1            anynet.connection_mgr - Connection manager shutdown.
+   info 2024-05-12 04:58:36.796       lsvc   main   1189  12843    1                  fiber.scheduler - Quitting scheduler (0).
+   info 2024-05-12 04:58:36.796       lsvc   main   1189  12843                       fiber.scheduler - Fiber 1 terminated.
+   info 2024-05-12 04:58:36.796       lsvc   main   1189  12843                       fiber.scheduler - All fibers terminated.
+   info 2024-05-12 04:58:36.796       lsvc   main   1189  12843                       fiber.scheduler - Scheduler stopped (0).
+   info 2024-05-12 04:58:36.798       lsvc   main   1189  12843                      main.run_service - Exiting
+ * * * * * * * * * * * * * * * * * *
+   info 2024-05-12 04:58:40.685      front   main   1547  19856                                  main - * AnyDesk MAC Startup *
+   info 2024-05-12 04:58:40.685      front   main   1547  19856                                  main - * Version 8.0.1 (release/mac_8.0.x 6a1884c691284accdb82bf628a1ef0eb65aaf3c4)
+   info 2024-05-12 04:58:40.685      front   main   1547  19856                                  main - * Build 20240312125731
+   info 2024-05-12 04:58:40.685      front   main   1547  19856                                  main - * Prefix ad
+   info 2024-05-12 04:58:40.689      front   main   1547  19856                                  main - * OS Version 14.4.1 (Build 23E224)
+   info 2024-05-12 04:58:40.689      front   main   1547  19856                                  main - * Arch arm64
+   info 2024-05-12 04:58:40.689      front   main   1547  19856                                  main - * Launch path /Applications/AnyDesk.app
+   info 2024-05-12 04:58:40.689      front   main   1547  19856                                  main - * Copyright (C) AnyDesk Software GmbH *
+   info 2024-05-12 04:58:40.689      front   main   1547  19856                                  main - 
+   info 2024-05-12 04:58:40.689      front   main   1547  19856                                  main - ppid: 1 uid: 501
+   info 2024-05-12 04:58:40.689      front   main   1547  19856                                  main - process maxfiles 256 : -1
+   info 2024-05-12 04:58:40.689      front   main   1547  19856                                  main - raising RLIMIT_NOFILE to 10240
+   info 2024-05-12 04:58:40.689      front   main   1547  19856                         impl_selector - using neon
+warning 2024-05-12 04:58:40.751      front   main   1547  19856                   fiber.ipc_namespace - Local namespace without service.
+  error 2024-05-12 04:58:40.769      front   main   1547  19856         mac_app.helper_tool_interface - Global files not found.
+   info 2024-05-12 04:58:40.769      front   main   1547  19856                   fiber.ipc_namespace - Global: no
+   info 2024-05-12 04:58:40.769      front   main   1547  19856                           AppDelegate - Starting a local service.
+warning 2024-05-12 04:58:40.770      front   main   1547  19856                   fiber.ipc_namespace - Local namespace without service.
+ * * * * * * * * * * * * * * * * * *
+   info 2024-05-12 04:58:40.781       lsvc   main   1548  19871                                  main - * AnyDesk MAC Startup *
+   info 2024-05-12 04:58:40.781       lsvc   main   1548  19871                                  main - * Version 8.0.1 (release/mac_8.0.x 6a1884c691284accdb82bf628a1ef0eb65aaf3c4)
+   info 2024-05-12 04:58:40.781       lsvc   main   1548  19871                                  main - * Build 20240312125731
+   info 2024-05-12 04:58:40.781       lsvc   main   1548  19871                                  main - * Prefix ad
+   info 2024-05-12 04:58:40.783       lsvc   main   1548  19871                                  main - * OS Version 14.4.1 (Build 23E224)
+   info 2024-05-12 04:58:40.783       lsvc   main   1548  19871                                  main - * Arch arm64
+   info 2024-05-12 04:58:40.783       lsvc   main   1548  19871                                  main - * Launch path /Applications/AnyDesk.app
+   info 2024-05-12 04:58:40.783       lsvc   main   1548  19871                                  main - * Copyright (C) AnyDesk Software GmbH *
+   info 2024-05-12 04:58:40.783       lsvc   main   1548  19871                                  main - 
+   info 2024-05-12 04:58:40.783       lsvc   main   1548  19871                                  main - ppid: 1547 uid: 501
+   info 2024-05-12 04:58:40.783       lsvc   main   1548  19871                                  main - process maxfiles 10240 : -1
+   info 2024-05-12 04:58:40.783       lsvc   main   1548  19871                         impl_selector - using neon
+   info 2024-05-12 04:58:40.783       lsvc   main   1548  19871                       app.common_path - initialized user = /Users/vasamsettyvenkatasaikushank/.anydesk, system = /Users/vasamsettyvenkatasaikushank/.anydesk
+   info 2024-05-12 04:58:40.783       lsvc   main   1548  19871                      main.run_service - Starting local service.
+   info 2024-05-12 04:58:40.783       lsvc   main   1548  19871          base.data.config_application - Adding GPO defaults layer.
+   info 2024-05-12 04:58:40.784       lsvc   main   1548  19871                               app.mdm - Loaded 0/648 MDM defaults.
+   info 2024-05-12 04:58:40.784       lsvc   main   1548  19871          base.data.config_application - Adding GPO overrides layer.
+   info 2024-05-12 04:58:40.784       lsvc   main   1548  19871                               app.mdm - Loaded 0/648 MDM overrides.
+   info 2024-05-12 04:58:40.785       lsvc   main   1548  19871                       fiber.scheduler - Spawning root fiber 1.
+   info 2024-05-12 04:58:40.785       lsvc   main   1548  19871                       fiber.scheduler - Scheduler started.
+   info 2024-05-12 04:58:40.785       lsvc   main   1548  19871    1                      app.service - Opening the IPC namespace.
+   info 2024-05-12 04:58:40.785       lsvc   main   1548  19871    1              fiber.ipc_namespace - Global: no
+   info 2024-05-12 04:58:40.785       lsvc   main   1548  19871    1                      app.service - Logging into the IPC namespace.
+   info 2024-05-12 04:58:40.785       lsvc   main   1548  19871    1                  fiber.scheduler - Spawning child fiber 2 (parent: 1).
+   info 2024-05-12 04:58:40.785       lsvc   main   1548  19871    1                  fiber.scheduler - Spawning child fiber 3 'notifications' (parent: 1).
+   info 2024-05-12 04:58:40.785       lsvc   main   1548  19871    1                  fiber.scheduler - Spawning child fiber 4 (parent: 1).
+   info 2024-05-12 04:58:40.785       lsvc   main   1548  19871    1                  fiber.scheduler - Spawning child fiber 5 'license_adapter' (parent: 1).
+   info 2024-05-12 04:58:40.785       lsvc   main   1548  19871    1                      app.service - Starting to supervise the IPC namespace.
+   info 2024-05-12 04:58:40.785       lsvc   main   1548  19871    1                      app.service - Starting the connector.
+   info 2024-05-12 04:58:40.785       lsvc   main   1548  19871    1            anynet.connection_mgr - Importing certificate and key.
+   info 2024-05-12 04:58:40.787       lsvc   main   1548  19871    1            anynet.connection_mgr - 3 CA certificate(s) loaded.
+   info 2024-05-12 04:58:40.787       lsvc   main   1548  19871    1                  fiber.scheduler - Spawning root fiber 6 'connection_mgr'.
+   info 2024-05-12 04:58:40.787       lsvc   main   1548  19871    1                  fiber.scheduler - Spawning root fiber 7 'main_relay_conn'.
+   info 2024-05-12 04:58:40.787       lsvc   main   1548  19871    1                  fiber.scheduler - Spawning root fiber 8 'tcp_acceptor'.
+   info 2024-05-12 04:58:40.787       lsvc   main   1548  19871    1                  fiber.scheduler - Spawning root fiber 9 'tcp_acceptor'.
+   info 2024-05-12 04:58:40.787       lsvc   main   1548  19871    1                      app.service - Setting up the listen sockets.
+   info 2024-05-12 04:58:40.788       lsvc   main   1548  19871    1                  fiber.scheduler - Spawning root fiber 10.
+   info 2024-05-12 04:58:40.788       lsvc   main   1548  19871    1                      app.service - Service startup completed.
+   info 2024-05-12 04:58:40.788       lsvc   main   1548  19871    1            app.discovery_manager - Updated Discovery settings: repeat interval (1000), repeat limit (10), buffer interval (5000), port range (3)
+   info 2024-05-12 04:58:40.788       lsvc   main   1548  19871    1            app.discovery_manager - Starting Discovery.
+   info 2024-05-12 04:58:40.788       lsvc   main   1548  19871    1                   ad.wol_service - Starting WOL service.
+   info 2024-05-12 04:58:40.788       lsvc   main   1548  19871    1                  fiber.scheduler - Spawning child fiber 11 'wol_service' (parent: 1).
+   info 2024-05-12 04:58:40.788       lsvc   main   1548  19871    1                  fiber.scheduler - Spawning child fiber 12 'invitation_service' (parent: 1).
+   info 2024-05-12 04:58:40.788       lsvc   main   1548  19871    1                  fiber.scheduler - Spawning child fiber 13 'ancl' (parent: 1).
+   info 2024-05-12 04:58:40.788       lsvc   main   1548  19871    1                  fiber.scheduler - Spawning child fiber 14 'quiver_anynet_service' (parent: 1).
+   info 2024-05-12 04:58:40.788       lsvc   main   1548  19871    1                      app.service - Waiting for messages.
+   info 2024-05-12 04:58:40.788       lsvc   main   1548  19871    6            anynet.connection_mgr - Starting connection manager fiber.
+   info 2024-05-12 04:58:40.788       lsvc   main   1548  19871    7           anynet.main_relay_conn - Starting main relay connection.
+   info 2024-05-12 04:58:40.789       lsvc   main   1548  19871    7                  fiber.scheduler - Spawning child fiber 15 'relay_connector' (parent: 7 'main_relay_conn').
+   info 2024-05-12 04:58:40.789       lsvc   main   1548  19871    8              anynet.tcp_acceptor - Listening on TCP port 7070 with IPv4.
+   info 2024-05-12 04:58:40.789       lsvc   main   1548  19871    9              anynet.tcp_acceptor - Listening on TCP port 7070 with IPv6.
+   info 2024-05-12 04:58:40.789       lsvc   main   1548  19871   10                anynet.any_socket - Listen fiber started.
+   info 2024-05-12 04:58:40.790       lsvc   main   1548  19871   15           anynet.relay_connector - Relay connector started.
+   info 2024-05-12 04:58:40.790       lsvc   main   1548  19871   15           anynet.relay_connector - Start proxy search.
+   info 2024-05-12 04:58:40.790       lsvc   main   1548  19871   15           anynet.relay_connector - Connecting to relay relay-301a8b57.net.anydesk.com (1/2)
+   info 2024-05-12 04:58:40.790       lsvc   main   1548  19871   15           anynet.relay_connector - Skipping connect method connect_proxy_443 (1/6) (no proxy found)
+   info 2024-05-12 04:58:40.790       lsvc   main   1548  19871   15           anynet.relay_connector - Skipping connect method connect_proxy_80 (2/6) (no proxy found)
+   info 2024-05-12 04:58:40.790       lsvc   main   1548  19871   15           anynet.relay_connector - Skipping connect method socks_proxy_443 (3/6) (no proxy found)
+   info 2024-05-12 04:58:40.794       lsvc   main   1548  19871   15           anynet.relay_connector - Using IPv4: 57.128.101.85
+   info 2024-05-12 04:58:40.871      front   main   1547  19856                       app.common_path - initialized user = /Users/vasamsettyvenkatasaikushank/.anydesk, system = /Users/vasamsettyvenkatasaikushank/.anydesk
+   info 2024-05-12 04:58:40.872      front   main   1547  19856                           AppDelegate - Starting frontend (6).
+   info 2024-05-12 04:58:40.873      front   main   1547  19856          base.data.config_application - Adding GPO defaults layer.
+   info 2024-05-12 04:58:40.874      front   main   1547  19856                               app.mdm - Loaded 0/648 MDM defaults.
+   info 2024-05-12 04:58:40.874      front   main   1547  19856          base.data.config_application - Adding GPO overrides layer.
+   info 2024-05-12 04:58:40.874      front   main   1547  19856                               app.mdm - Loaded 0/648 MDM overrides.
+   info 2024-05-12 04:58:40.874      front   main   1547  19856                           gui.gui_app - DPI scaling: 2.00 / 2.00
+   info 2024-05-12 04:58:40.874      front   main   1547  19856                           gui.gui_app - Using high-resolution bitmaps.
+   info 2024-05-12 04:58:40.875      front   main   1547  19856                       base.signal.hub - 4 threads.
+   info 2024-05-12 04:58:40.904      front   timr   1547  19878          base.signal.local.timer_impl - Initialized master timer.
+   info 2024-05-12 04:58:40.905      front   ctrl   1547  19880                      mac_app.frontend - Frontend startup.
+   info 2024-05-12 04:58:40.905      front   ctrl   1547  19880                      mac_app.frontend - Logging the frontend in.
+   info 2024-05-12 04:58:40.905       lsvc   main   1548  19871    1                      app.service - Process start: 1547 (frontend).
+   info 2024-05-12 04:58:40.905       lsvc   main   1548  19871    1           anynet.relay_connector - Short timeouts enabled.
+   info 2024-05-12 04:58:40.935       lsvc   main   1548  19871    1                      app.service - New IPC connection.
+   info 2024-05-12 04:58:40.935       lsvc   main   1548  19871    1                  fiber.scheduler - Spawning child fiber 16 'ipc_connection' (parent: 1).
+   info 2024-05-12 04:58:40.935       lsvc   main   1548  19871   16                      app.service - Creating an IPC accept socket.
+   info 2024-05-12 04:58:40.935       lsvc   main   1548  19871   16                      app.service - Connected to 1547 (frontend).
+   info 2024-05-12 04:58:40.935       lsvc   main   1548  19871   16                      app.service - Process login detected.
+   info 2024-05-12 04:58:40.935       lsvc   main   1548  19871   16                  fiber.scheduler - Spawning child fiber 17 'account_adapter' (parent: 16 'ipc_connection').
+warning 2024-05-12 04:58:40.935      front   wrk1   1547  19882                                   sif - Dropping out of date license response.
+   info 2024-05-12 04:58:40.935       lsvc   main   1548  19871   17                  account_adapter - Preparing quiver based account service for os-session 501
+   info 2024-05-12 04:58:40.935      front   wrk2   1547  19883                               app.mdm - Loaded 0/648 MDM overrides.
+   info 2024-05-12 04:58:40.936      front   wrk2   1547  19883                               app.mdm - Loaded 0/648 MDM defaults.
+   info 2024-05-12 04:58:40.953      front   ctrl   1547  19880                     base.monitor_info - 1 active monitor(s) found.
+   info 2024-05-12 04:58:40.954       lsvc   main   1548  19871   17                      anynet.conn - Request before connect. Queueing.
+   info 2024-05-12 04:58:40.988      front   main   1547  19856                             url_query - append
+   info 2024-05-12 04:58:40.988      front   main   1547  19856                             url_query - append
+   info 2024-05-12 04:58:40.988      front   main   1547  19856                             url_query - append
+   info 2024-05-12 04:58:40.988      front   main   1547  19856                             url_query - append
+   info 2024-05-12 04:58:40.988      front   main   1547  19856                             url_query - append
+   info 2024-05-12 04:58:40.988      front   main   1547  19856                             url_query - append
+   info 2024-05-12 04:58:40.998      front   main   1547  19856                             url_query - append
+   info 2024-05-12 04:58:40.998      front   main   1547  19856                             url_query - append
+   info 2024-05-12 04:58:40.998      front   main   1547  19856                             url_query - append
+  error 2024-05-12 04:58:41.027      front   main   1547  19856         mac_app.helper_tool_interface - Global files not found.
+   info 2024-05-12 04:58:41.068       lsvc   main   1548  19871   15                  fiber.scheduler - Spawning root fiber 18.
+   info 2024-05-12 04:58:41.436       lsvc   main   1548  19871   15           anynet.relay_connector - Cipher: ECDHE-ECDSA-AES256-GCM-SHA384 TLSv1.2 Kx=ECDH Au=ECDSA Enc=AESGCM(256) Mac=AEAD
+   info 2024-05-12 04:58:41.436       lsvc   main   1548  19871   15                  fiber.scheduler - Spawning root fiber 19.
+   info 2024-05-12 04:58:41.437       lsvc   main   1548  19871   15                        handshake - Using protocol version 3.
+   info 2024-05-12 04:58:41.682       lsvc   main   1548  19871                       fiber.scheduler - Fiber 15 'relay_connector' (parent: 7 'main_relay_conn') requested quit of fiber 19.
+   info 2024-05-12 04:58:41.683       lsvc   main   1548  19871   19                      fiber.fiber - Received quit.
+   info 2024-05-12 04:58:41.683       lsvc   main   1548  19871                       fiber.scheduler - Fiber 19 terminated.
+   info 2024-05-12 04:58:41.683       lsvc   main   1548  19871                       fiber.scheduler - Fiber 15 'relay_connector' (parent: 7 'main_relay_conn') requested quit of fiber 18.
+   info 2024-05-12 04:58:41.683       lsvc   main   1548  19871   18                      fiber.fiber - Received quit.
+   info 2024-05-12 04:58:41.683       lsvc   main   1548  19871                       fiber.scheduler - Fiber 18 terminated.
+   info 2024-05-12 04:58:41.683       lsvc   main   1548  19871   15           anynet.relay_connector - Connection terminated: anynet_relay_full
+   info 2024-05-12 04:58:41.683       lsvc   main   1548  19871   15           anynet.relay_connector - Received a new server list (10 servers)
+   info 2024-05-12 04:58:41.683       lsvc   main   1548  19871   15           anynet.relay_connector - Connecting to relay relay-250372ec.net.anydesk.com (1/10)
+   info 2024-05-12 04:58:41.684       lsvc   main   1548  19871   15           anynet.relay_connector - Skipping connect method connect_proxy_443 (1/6) (no proxy found)
+   info 2024-05-12 04:58:41.684       lsvc   main   1548  19871   15           anynet.relay_connector - Skipping connect method connect_proxy_80 (2/6) (no proxy found)
+   info 2024-05-12 04:58:41.684       lsvc   main   1548  19871   15           anynet.relay_connector - Skipping connect method socks_proxy_443 (3/6) (no proxy found)
+   info 2024-05-12 04:58:41.725       lsvc   main   1548  19871   15           anynet.relay_connector - Using IPv4: 208.115.231.42
+   info 2024-05-12 04:58:41.892       lsvc   main   1548  19871   15                  fiber.scheduler - Spawning root fiber 20.
+   info 2024-05-12 04:58:41.940      front   main   1547  19856                           AppDelegate - Nothing detected (0).
+   info 2024-05-12 04:58:41.940      front   ctrl   1547  19880                      mac_app.frontend - Frontend shutdown.
+   info 2024-05-12 04:58:41.942      front   ctrl   1547  19880                      mac_app.frontend - Terminating the service
+   info 2024-05-12 04:58:41.942       lsvc   main   1548  19871   16                      app.service - Terminating the service.
+   info 2024-05-12 04:58:41.942       lsvc   main   1548  19871   16                  fiber.scheduler - Quitting scheduler (0).
+   info 2024-05-12 04:58:41.942       lsvc   main   1548  19871    1                      app.service - Process stop: 1547.
+   info 2024-05-12 04:58:41.942       lsvc   main   1548  19871    1           anynet.relay_connector - Short timeouts disabled.
+   info 2024-05-12 04:58:41.942       lsvc   main   1548  19871                       fiber.scheduler - Quitting all fibers.
+   info 2024-05-12 04:58:41.942       lsvc   main   1548  19871                       fiber.scheduler - Fiber 1 requested quit of fiber 4 (parent: 1).
+   info 2024-05-12 04:58:41.942       lsvc   main   1548  19871                       fiber.scheduler - Fiber 4 (parent: 1) terminated.
+   info 2024-05-12 04:58:41.942       lsvc   main   1548  19871    6            anynet.connection_mgr - Connection manager fiber quit.
+   info 2024-05-12 04:58:41.942       lsvc   main   1548  19871                       fiber.scheduler - Fiber 6 'connection_mgr' terminated.
+   info 2024-05-12 04:58:41.942       lsvc   main   1548  19871    7           anynet.main_relay_conn - Connect failed. Result: result_quit
+   info 2024-05-12 04:58:41.942       lsvc   main   1548  19871                       fiber.scheduler - Fiber 7 'main_relay_conn' requested quit of fiber 15 'relay_connector' (parent: 7 'main_relay_conn').
+   info 2024-05-12 04:58:41.942       lsvc   main   1548  19871    8              anynet.tcp_acceptor - Received quit.
+   info 2024-05-12 04:58:41.942       lsvc   main   1548  19871                       fiber.scheduler - Fiber 8 'tcp_acceptor' terminated.
+   info 2024-05-12 04:58:41.942       lsvc   main   1548  19871    9              anynet.tcp_acceptor - Received quit.
+   info 2024-05-12 04:58:41.942       lsvc   main   1548  19871                       fiber.scheduler - Fiber 9 'tcp_acceptor' terminated.
+   info 2024-05-12 04:58:41.942       lsvc   main   1548  19871   10                anynet.any_socket - Listen fiber stopped.
+   info 2024-05-12 04:58:41.942       lsvc   main   1548  19871                       fiber.scheduler - Fiber 10 terminated.
+   info 2024-05-12 04:58:41.942       lsvc   main   1548  19871                       fiber.scheduler - Fiber 15 'relay_connector' (parent: 7 'main_relay_conn') requested quit of fiber 20.
+   info 2024-05-12 04:58:41.942       lsvc   main   1548  19871   20                      fiber.fiber - Received quit.
+   info 2024-05-12 04:58:41.943       lsvc   main   1548  19871                       fiber.scheduler - Fiber 20 terminated.
+   info 2024-05-12 04:58:41.943       lsvc   main   1548  19871                       fiber.scheduler - Fiber 1 requested quit of fiber 5 'license_adapter' (parent: 1).
+   info 2024-05-12 04:58:41.943       lsvc   main   1548  19871   15                      fiber.fiber - Received quit.
+   info 2024-05-12 04:58:41.943       lsvc   main   1548  19871                       fiber.scheduler - Fiber 15 'relay_connector' (parent: 7 'main_relay_conn') terminated.
+   info 2024-05-12 04:58:41.943       lsvc   main   1548  19871    5                      fib_service - Caught exception. quitting.
+   info 2024-05-12 04:58:41.943       lsvc   main   1548  19871                       fiber.scheduler - Fiber 5 'license_adapter' (parent: 1) terminated.
+   info 2024-05-12 04:58:41.943       lsvc   main   1548  19871                       fiber.scheduler - Fiber 7 'main_relay_conn' terminated.
+   info 2024-05-12 04:58:41.943       lsvc   main   1548  19871                       fiber.scheduler - Fiber 1 requested quit of fiber 3 'notifications' (parent: 1).
+   info 2024-05-12 04:58:41.943       lsvc   main   1548  19871    3                      fib_service - Caught exception. quitting.
+   info 2024-05-12 04:58:41.943       lsvc   main   1548  19871                       fiber.scheduler - Fiber 3 'notifications' (parent: 1) terminated.
+   info 2024-05-12 04:58:41.943       lsvc   main   1548  19871                       fiber.scheduler - Fiber 1 requested quit of fiber 2 (parent: 1).
+   info 2024-05-12 04:58:41.943       lsvc   main   1548  19871                       fiber.scheduler - Fiber 2 (parent: 1) terminated.
+   info 2024-05-12 04:58:41.943       lsvc   main   1548  19871                       fiber.scheduler - Fiber 1 requested quit of fiber 13 'ancl' (parent: 1).
+   info 2024-05-12 04:58:41.943       lsvc   main   1548  19871   13                      fib_service - Caught exception. quitting.
+   info 2024-05-12 04:58:41.943       lsvc   main   1548  19871                       fiber.scheduler - Fiber 13 'ancl' (parent: 1) terminated.
+   info 2024-05-12 04:58:41.943       lsvc   main   1548  19871    1                      app.service - Service shutdown.
+   info 2024-05-12 04:58:41.943       lsvc   main   1548  19871                       fiber.scheduler - Fiber 1 requested quit of fiber 11 'wol_service' (parent: 1).
+   info 2024-05-12 04:58:41.943       lsvc   main   1548  19871   11                      fiber.fiber - Received quit.
+   info 2024-05-12 04:58:41.943       lsvc   main   1548  19871                       fiber.scheduler - Fiber 11 'wol_service' (parent: 1) terminated.
+   info 2024-05-12 04:58:41.943       lsvc   main   1548  19871                       fiber.scheduler - Fiber 1 requested quit of fiber 12 'invitation_service' (parent: 1).
+   info 2024-05-12 04:58:41.943       lsvc   main   1548  19871   12                      fib_service - Caught exception. quitting.
+   info 2024-05-12 04:58:41.944       lsvc   main   1548  19871                       fiber.scheduler - Fiber 12 'invitation_service' (parent: 1) terminated.
+   info 2024-05-12 04:58:41.944       lsvc   main   1548  19871                       fiber.scheduler - Fiber 1 requested quit of fiber 14 'quiver_anynet_service' (parent: 1).
+   info 2024-05-12 04:58:41.944       lsvc   main   1548  19871                       fiber.scheduler - Fiber 14 'quiver_anynet_service' (parent: 1) terminated.
+   info 2024-05-12 04:58:41.944       lsvc   main   1548  19871                       fiber.scheduler - Fiber 1 requested quit of fiber 16 'ipc_connection' (parent: 1).
+   info 2024-05-12 04:58:41.944       lsvc   main   1548  19871                       fiber.scheduler - Fiber 16 'ipc_connection' (parent: 1) requested quit of fiber 17 'account_adapter' (parent: 16 'ipc_connection').
+   info 2024-05-12 04:58:41.944       lsvc   main   1548  19871   17                      fiber.fiber - Received quit.
+   info 2024-05-12 04:58:41.944       lsvc   main   1548  19871                       fiber.scheduler - Fiber 17 'account_adapter' (parent: 16 'ipc_connection') terminated.
+   info 2024-05-12 04:58:41.944      front   wrk0   1547  19881                      mac_app.frontend - Service connection lost.
+   info 2024-05-12 04:58:42.910       lsvc   main   1548  19871   16                      app.service - Fiber exit (ipc).
+   info 2024-05-12 04:58:42.910       lsvc   main   1548  19871                       fiber.scheduler - Fiber 16 'ipc_connection' (parent: 1) terminated.
+   info 2024-05-12 04:58:42.910       lsvc   main   1548  19871    1            anynet.connection_mgr - Connection manager shutdown.
+   info 2024-05-12 04:58:42.911       lsvc   main   1548  19871    1                  fiber.scheduler - Quitting scheduler (0).
+   info 2024-05-12 04:58:42.911       lsvc   main   1548  19871                       fiber.scheduler - Fiber 1 terminated.
+   info 2024-05-12 04:58:42.911       lsvc   main   1548  19871                       fiber.scheduler - All fibers terminated.
+   info 2024-05-12 04:58:42.911       lsvc   main   1548  19871                       fiber.scheduler - Scheduler stopped (0).
+   info 2024-05-12 04:58:42.912       lsvc   main   1548  19871                      main.run_service - Exiting
+   info 2024-05-12 04:58:42.940      front   ctrl   1547  19880                      mac_app.frontend - Frontend shutdown complete.
