@@ -1,5 +1,0 @@
-2023-11-07 20:35:44.834 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'languageConfigurationAutoClosingPairs' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
-2023-11-07 20:35:45.713 [info] [Blackboxapp.blackbox]: Command `extension.saveCodeToCloud` already registered by Blackbox AI Code Generation, Code Chat, Code Search (Blackboxapp.blackbox)
-2023-11-07 20:35:48.012 [info] [perf] Render performance baseline is 25ms
-2023-11-07 20:35:48.051 [error] [Extension Host] 2023-11-07T15:05:48.050Z [ERROR] [extension] You are not signed in to GitHub. Please sign in to use Copilot.
-2023-11-07 20:35:48.844 [error] ENOENT: no such file or directory, open '/Users/vasamsettyvenkatasaikushank/.anaconda/navigator/Code/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/Users/vasamsettyvenkatasaikushank/.anaconda/navigator/Code/User/globalStorage/vscodevim.vim/.registers'

@@ -1,6 +1,0 @@
-2023-11-07 20:35:46.632 [info] Log level: Info
-2023-11-07 20:35:46.640 [info] Validating found git in: "/usr/bin/git"
-2023-11-07 20:35:46.649 [warning] Unable to find git. Error: Executing "git --version" failed: Command failed: git --version
-xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
-
-2023-11-07 20:35:46.651 [warning] Git installation not found.
