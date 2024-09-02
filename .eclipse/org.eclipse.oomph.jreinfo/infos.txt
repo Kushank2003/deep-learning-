@@ -1,2 +1,0 @@
-/Users/vasamsettyvenkatasaikushank/Library/Java/JavaVirtualMachines/openjdk-20/Contents/Home:20:0:0:64:true:1679668199743:aarch64
-/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home:1:8:0:64:false:1673254756000:x86_64
